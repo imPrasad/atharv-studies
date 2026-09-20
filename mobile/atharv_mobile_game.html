@@ -1,0 +1,2000 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>🌟 Atharv's Mobile Learning World 🚀</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-dark: #0f172a;
+            --card-dark: #1e293b;
+            --accent-blue: #3b82f6;
+            --accent-green: #22c55e;
+            --accent-orange: #f97316;
+            --accent-purple: #a855f7;
+            --text-light: #f8fafc;
+            --text-muted: #94a3b8;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; user-select: none; -webkit-tap-highlight-color: transparent; }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: #090d16;
+            color: var(--text-light);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            padding: 0;
+            overflow-x: hidden;
+            font-weight: 400;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* Mobile Container Frame */
+        .app-container {
+            width: 100%;
+            max-width: 480px;
+            min-height: 100vh;
+            background: #0f172a;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+            box-shadow: 0 0 50px rgba(0,0,0,0.8);
+        }
+
+        /* Top Header Bar */
+        .app-header {
+            background: #1e293b;
+            padding: 12px 16px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .nav-back-btn {
+            background: rgba(255,255,255,0.1);
+            border: 1px solid rgba(255,255,255,0.15);
+            color: white;
+            padding: 8px 14px;
+            border-radius: 10px;
+            font-weight: 500;
+            font-size: 0.9rem;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .nav-back-btn:active { transform: scale(0.95); }
+
+        .top-stats {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.85rem;
+            font-weight: 500;
+        }
+        .fullscreen-btn {
+            background: rgba(59, 130, 246, 0.2);
+            border: 1px solid rgba(59, 130, 246, 0.4);
+            color: #60a5fa;
+            padding: 5px 10px;
+            border-radius: 14px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            transition: all 0.2s ease;
+        }
+        .fullscreen-btn:active { transform: scale(0.95); background: #3b82f6; color: white; }
+        .stat-badge {
+            background: rgba(255,255,255,0.08);
+            padding: 4px 10px;
+            border-radius: 16px;
+            border: 1px solid rgba(255,255,255,0.12);
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        /* Screen Views */
+        .screen-view {
+            display: none;
+            padding: 16px;
+            flex: 1;
+            flex-direction: column;
+        }
+        .screen-view.active { display: flex; animation: fadeIn 0.3s ease; }
+
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+
+        /* 1. DASHBOARD VIEW */
+        .dash-title {
+            font-size: 1.7rem;
+            font-weight: 700;
+            text-align: center;
+            color: #ffffff;
+            margin: 10px 0 4px 0;
+            letter-spacing: -0.3px;
+        }
+        .dash-subtitle {
+            font-size: 0.95rem;
+            font-weight: 400;
+            text-align: center;
+            color: var(--text-muted);
+            margin-bottom: 20px;
+        }
+
+        .subject-card {
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.12);
+            border-radius: 16px;
+            padding: 16px;
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+        .subject-card:active { transform: scale(0.98); background: rgba(255,255,255,0.08); }
+
+        .card-info { display: flex; align-items: center; gap: 14px; }
+        .card-icon { font-size: 2.4rem; }
+        .card-name { font-size: 1.15rem; font-weight: 600; margin-bottom: 2px; }
+        .card-count { font-size: 0.85rem; font-weight: 400; color: var(--text-muted); }
+
+        /* 2. TOPICS MENU VIEW */
+        .topic-list { display: flex; flex-direction: column; gap: 10px; margin-top: 10px; }
+        .topic-item {
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.12);
+            border-radius: 14px;
+            padding: 14px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            cursor: pointer;
+        }
+        .topic-item:active { transform: scale(0.98); background: rgba(255,255,255,0.1); }
+        .topic-title { font-weight: 600; font-size: 1rem; margin-bottom: 4px; }
+        .topic-tag { display: inline-block; font-size: 0.75rem; padding: 2px 8px; border-radius: 10px; font-weight: 500; }
+        .tag-school { background: rgba(59, 130, 246, 0.2); color: #93c5fd; border: 1px solid rgba(59, 130, 246, 0.4); }
+        .tag-bonus { background: rgba(236, 72, 153, 0.2); color: #f9a8d4; border: 1px solid rgba(236, 72, 153, 0.4); }
+
+        /* 3. SYLLABUS LESSON INTRO CARD VIEW */
+        .syllabus-card {
+            background: #1e293b;
+            border: 1px solid rgba(255,255,255,0.15);
+            border-radius: 20px;
+            padding: 22px;
+            text-align: center;
+            margin-top: 10px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.4);
+        }
+        .syl-icon { font-size: 3.8rem; margin-bottom: 10px; }
+        .syl-title { font-size: 1.5rem; font-weight: 600; color: #60a5fa; margin-bottom: 6px; }
+        .syl-badge { display: inline-block; background: var(--accent-blue); color: white; padding: 4px 12px; border-radius: 16px; font-size: 0.85rem; font-weight: 500; margin-bottom: 16px; }
+        .syl-box { background: rgba(0,0,0,0.25); border-radius: 14px; padding: 16px; text-align: left; margin-bottom: 16px; font-size: 0.95rem; font-weight: 400; line-height: 1.5; color: #cbd5e1; }
+        .syl-box ul { padding-left: 20px; margin-top: 8px; }
+        .syl-box li { margin-bottom: 4px; }
+
+        /* PREVIEW WORDS & CONCEPTS GRID */
+        .words-preview-box {
+            background: rgba(15, 23, 42, 0.6);
+            border: 1px solid rgba(59, 130, 246, 0.3);
+            border-radius: 14px;
+            padding: 14px;
+            margin-bottom: 20px;
+            text-align: left;
+        }
+        .words-preview-title {
+            font-size: 0.9rem;
+            font-weight: 600;
+            color: #60a5fa;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .words-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            max-height: 220px;
+            overflow-y: auto;
+            padding-right: 4px;
+        }
+        .words-grid::-webkit-scrollbar { width: 4px; }
+        .words-grid::-webkit-scrollbar-thumb { background: #3b82f6; border-radius: 4px; }
+
+        .word-chip {
+            background: #1e293b;
+            border: 1px solid rgba(255, 255, 255, 0.15);
+            border-radius: 10px;
+            padding: 8px 12px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.95rem;
+            font-weight: 600;
+            color: #ffffff;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+        .word-chip:active { transform: scale(0.95); background: #3b82f6; }
+        .chip-img { font-size: 1.3rem; }
+        .chip-word { color: #38bdf8; letter-spacing: 0.5px; font-weight: 700; }
+        
+        .quiz-chip {
+            width: 100%;
+            font-weight: 400;
+            font-size: 0.88rem;
+            color: #e2e8f0;
+            padding: 10px 12px;
+            border-left: 3px solid #3b82f6;
+            background: rgba(30, 41, 59, 0.8);
+            border-radius: 8px;
+            line-height: 1.4;
+        }
+        .chip-num {
+            background: #3b82f6;
+            color: white;
+            padding: 2px 6px;
+            border-radius: 6px;
+            font-size: 0.75rem;
+            font-weight: 700;
+            margin-right: 6px;
+            flex-shrink: 0;
+        }
+
+        .start-btn {
+            width: 100%;
+            background: #22c55e;
+            color: white;
+            font-size: 1.15rem;
+            font-weight: 600;
+            padding: 15px;
+            border-radius: 14px;
+            border: none;
+            cursor: pointer;
+            box-shadow: 0 4px 14px rgba(34, 197, 94, 0.3);
+        }
+        .start-btn:active { transform: scale(0.98); }
+
+        /* 4. GAMEPLAY VIEWS - RACETRACK WITH BIG CAR FACING RIGHT */
+        .racetrack-box {
+            background: #1e293b;
+            border-radius: 14px;
+            padding: 12px;
+            margin-bottom: 14px;
+            border: 1px solid rgba(255,255,255,0.1);
+            position: relative;
+            overflow: hidden;
+        }
+        .racetrack-top { display: flex; justify-content: space-between; font-size: 0.8rem; font-weight: 600; color: #94a3b8; margin-bottom: 8px; letter-spacing: 0.5px; }
+        .racetrack-road {
+            height: 56px; /* Taller track road matching user's drawn box height */
+            background: #334155;
+            border-radius: 12px;
+            position: relative;
+            border-top: 2px dashed #64748b;
+            border-bottom: 2px dashed #64748b;
+            display: flex;
+            align-items: center;
+        }
+
+        /* Growing Exhaust Smoke/Fire Progress Trail */
+        .racetrack-exhaust-trail {
+            position: absolute;
+            left: 0;
+            top: 50%;
+            transform: translateY(-50%);
+            height: 20px;
+            width: 0%;
+            background: linear-gradient(90deg, 
+                rgba(148, 163, 184, 0.4) 0%, 
+                rgba(203, 213, 225, 0.7) 35%, 
+                #f97316 70%, 
+                #ef4444 100%);
+            border-radius: 10px;
+            box-shadow: 0 0 12px rgba(249, 115, 22, 0.8), 0 0 18px rgba(239, 68, 68, 0.6);
+            transition: width 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+            pointer-events: none;
+            z-index: 1;
+        }
+        .racetrack-exhaust-trail::after {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: repeating-linear-gradient(
+                -45deg,
+                rgba(255, 255, 255, 0.25),
+                rgba(255, 255, 255, 0.25) 10px,
+                transparent 10px,
+                transparent 20px
+            );
+            border-radius: 10px;
+            animation: exhaustTrailGlow 1s linear infinite;
+        }
+        @keyframes exhaustTrailGlow {
+            0% { background-position: 0 0; }
+            100% { background-position: 40px 0; }
+        }
+        .race-car {
+            position: absolute;
+            left: 0%;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 86px;  /* Wide matching drawn rectangle */
+            height: 46px; /* High matching drawn rectangle height */
+            transition: left 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+            filter: drop-shadow(0 4px 6px rgba(0,0,0,0.6));
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .car-svg {
+            width: 100%;
+            height: 100%;
+            overflow: visible;
+        }
+        .finish-flag { 
+            position: absolute; 
+            right: 10px; 
+            top: 50%; 
+            transform: translateY(-50%);
+            font-size: 2.2rem; 
+        }
+
+        /* Exhaust Flame Animation on Track Car */
+        .exhaust-flames { opacity: 0.4; transition: all 0.3s ease; }
+        .race-car.exhaust-boost .exhaust-flames {
+            opacity: 1;
+            filter: drop-shadow(-4px 0 8px #ff4500);
+            animation: flameFlicker 0.15s infinite alternate;
+        }
+        @keyframes flameFlicker {
+            from { transform: scale(1) translateX(0); }
+            to { transform: scale(1.3) translateX(-4px); }
+        }
+
+        /* Full-Screen Car Celebration Overlay Modal (3 Seconds Slow Zoom + Screen Smoke) */
+        .car-celebration-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background: rgba(15, 23, 42, 0.96);
+            backdrop-filter: blur(12px);
+            z-index: 9999;
+            display: none;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            pointer-events: none;
+        }
+        .car-celebration-overlay.active {
+            display: flex;
+            animation: overlayFadeIn 0.3s ease forwards;
+        }
+        @keyframes overlayFadeIn { from { opacity: 0; } to { opacity: 1; } }
+
+        /* Full Screen Animated Smoke Clouds Container */
+        .screen-smoke-container {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            pointer-events: none;
+            overflow: hidden;
+            z-index: 1;
+        }
+
+        .smoke-cloud-billow {
+            position: absolute;
+            background: radial-gradient(circle, rgba(203, 213, 225, 0.45) 0%, rgba(148, 163, 184, 0.25) 50%, rgba(15, 23, 42, 0) 75%);
+            border-radius: 50%;
+            opacity: 0;
+        }
+
+        .car-celebration-overlay.active .smoke-cloud-1 {
+            width: 90vw;
+            height: 90vw;
+            left: -20vw;
+            top: 10vh;
+            animation: smokeExpandScreen1 3.0s ease-out forwards;
+        }
+        .car-celebration-overlay.active .smoke-cloud-2 {
+            width: 110vw;
+            height: 110vw;
+            left: 10vw;
+            top: -10vh;
+            animation: smokeExpandScreen2 3.0s ease-out 0.3s forwards;
+        }
+        .car-celebration-overlay.active .smoke-cloud-3 {
+            width: 100vw;
+            height: 100vw;
+            left: -10vw;
+            top: 25vh;
+            animation: smokeExpandScreen1 3.0s ease-out 0.6s forwards;
+        }
+
+        @keyframes smokeExpandScreen1 {
+            0% { transform: scale(0.2) translate(-20%, 0); opacity: 0.85; }
+            50% { transform: scale(1.6) translate(15%, -10%); opacity: 0.95; }
+            100% { transform: scale(2.8) translate(35%, -20%); opacity: 0; }
+        }
+        @keyframes smokeExpandScreen2 {
+            0% { transform: scale(0.3) translate(-30%, 0); opacity: 0.75; }
+            60% { transform: scale(1.8) translate(20%, 10%); opacity: 0.9; }
+            100% { transform: scale(3.0) translate(45%, 20%); opacity: 0; }
+        }
+
+        .celebration-title {
+            font-size: 1.75rem;
+            font-weight: 800;
+            color: #facc15;
+            text-shadow: 0 0 20px rgba(250, 204, 21, 0.8);
+            margin-bottom: 24px;
+            text-align: center;
+            letter-spacing: 0.5px;
+            position: relative;
+            z-index: 10;
+            animation: pulseTitle 0.5s infinite alternate ease-in-out;
+        }
+        @keyframes pulseTitle { from { transform: scale(1); } to { transform: scale(1.06); } }
+
+        .celebration-track {
+            width: 100vw;
+            height: 140px;
+            position: relative;
+            background: linear-gradient(90deg, #1e293b 0%, #334155 50%, #1e293b 100%);
+            border-top: 4px dashed #60a5fa;
+            border-bottom: 4px dashed #60a5fa;
+            display: flex;
+            align-items: center;
+            overflow: hidden;
+            box-shadow: 0 0 50px rgba(59, 130, 246, 0.7);
+            z-index: 10;
+        }
+
+        .giant-race-car {
+            position: absolute;
+            left: -400px;
+            width: 360px;
+            height: 130px;
+            top: 50%;
+            transform: translateY(-50%);
+            filter: drop-shadow(-16px 0 30px #ff4500) drop-shadow(0 10px 20px rgba(0,0,0,0.9));
+        }
+
+        .car-celebration-overlay.active .giant-race-car {
+            animation: carZoomAcross 3.0s cubic-bezier(0.15, 0.85, 0.35, 1) forwards;
+        }
+
+        @keyframes carZoomAcross {
+            0% { left: -400px; }
+            100% { left: calc(100vw + 100px); }
+        }
+
+        .celebration-stars {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #4ade80;
+            margin-top: 24px;
+            text-shadow: 0 0 16px rgba(74, 222, 128, 0.8);
+            position: relative;
+            z-index: 10;
+        }
+
+        /* Question & Prompt Box */
+        .prompt-card {
+            background: #1e293b;
+            border-radius: 20px;
+            padding: 20px;
+            text-align: center;
+            margin-bottom: 16px;
+            border: 1px solid rgba(255,255,255,0.12);
+            position: relative;
+        }
+        .prompt-img { font-size: 3.5rem; margin-bottom: 8px; }
+        .prompt-text { font-size: 1.25rem; font-weight: 500; margin-bottom: 6px; color: #ffffff; line-height: 1.4; letter-spacing: 0.2px; }
+        .prompt-sub { font-size: 0.85rem; font-weight: 500; color: #94a3b8; margin-bottom: 14px; letter-spacing: 0.5px; }
+
+        .sound-tools { display: flex; justify-content: center; gap: 8px; margin-bottom: 8px; }
+        .tool-btn {
+            background: #3b82f6;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+        .tool-btn:active { transform: scale(0.95); }
+
+        /* Letter Slots */
+        .slots-row {
+            display: flex;
+            justify-content: center;
+            gap: 8px;
+            margin: 16px 0;
+        }
+        .slot-box {
+            width: 48px;
+            height: 48px;
+            border: 2px dashed #64748b;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            font-weight: 600;
+            background: rgba(0,0,0,0.2);
+            color: #60a5fa;
+        }
+        .slot-box.filled { border-style: solid; border-color: #3b82f6; background: #1e3a8a; }
+
+        /* Keyboard Grid */
+        .keyboard-grid {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 8px;
+            margin-top: 10px;
+        }
+        .key-btn {
+            background: #334155;
+            color: white;
+            font-size: 1.2rem;
+            font-weight: 600;
+            padding: 12px 0;
+            border-radius: 10px;
+            border: 1px solid #475569;
+            cursor: pointer;
+            text-align: center;
+        }
+        .key-btn:active { background: #3b82f6; transform: translateY(1px); }
+
+        .keyboard-actions {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 10px;
+            width: 100%;
+        }
+        .key-action {
+            flex: 1;
+            max-width: 160px;
+            background: #475569;
+            color: white;
+            font-size: 0.95rem;
+            font-weight: 500;
+            padding: 12px 0;
+            border-radius: 10px;
+            border: 1px solid #64748b;
+            text-align: center;
+            cursor: pointer;
+        }
+        .key-action:active { background: #3b82f6; transform: translateY(1px); }
+
+        /* Option Grid Cards */
+        .quiz-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+            margin-top: 10px;
+        }
+        .quiz-opt-card {
+            background: #1e293b;
+            border: 1px solid #334155;
+            border-radius: 16px;
+            padding: 16px 10px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .quiz-opt-card:active { transform: scale(0.97); border-color: #3b82f6; }
+        .quiz-opt-text { font-size: 1.05rem; font-weight: 500; color: #ffffff; }
+
+        /* Gravity Drop Canvas */
+        .gravity-stage {
+            height: 180px;
+            background: linear-gradient(180deg, #38bdf8 0%, #bae6fd 80%, #22c55e 80%, #16a34a 100%);
+            border-radius: 16px;
+            position: relative;
+            overflow: hidden;
+            margin-bottom: 12px;
+        }
+        .falling-item {
+            position: absolute;
+            font-size: 2.2rem;
+            top: 20px;
+            transition: top 0.6s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+        }
+
+        /* Color Mixer Slots */
+        .mixer-row {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            margin: 14px 0;
+            font-size: 1.4rem;
+            font-weight: 600;
+        }
+        .mix-slot {
+            width: 58px;
+            height: 58px;
+            border-radius: 14px;
+            border: 2px dashed #94a3b8;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: rgba(0,0,0,0.2);
+            font-size: 1.5rem;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="app-container">
+
+        <!-- Full-Screen Car Celebration Overlay Modal (3 Sec Slow Car Zoom & Full Screen Animated Exhaust Smoke) -->
+        <div class="car-celebration-overlay" id="car-celebration-overlay">
+            <!-- Animated Screen Smoke Clouds -->
+            <div class="screen-smoke-container">
+                <div class="smoke-cloud-billow smoke-cloud-1"></div>
+                <div class="smoke-cloud-billow smoke-cloud-2"></div>
+                <div class="smoke-cloud-billow smoke-cloud-3"></div>
+            </div>
+
+            <div style="text-align: center; width: 100%; position: relative; z-index: 5;">
+                <div class="celebration-title" id="celebration-title">🔥 TURBO BOOST! CORRECT! 🏁</div>
+                <div class="celebration-track">
+                    <div class="giant-race-car" id="giant-car">
+                        <svg viewBox="-90 0 260 75" style="width: 100%; height: 100%;">
+                            <!-- Massive Exhaust Fire Trail & Expanding Exhaust Puffs -->
+                            <g>
+                                <path d="M0 48 Q-50 52 -100 46 Q-50 64 0 56 Z" fill="#ff2200"/>
+                                <path d="M0 45 Q-70 52 -130 46 Q-70 66 0 60 Z" fill="#ffaa00" opacity="0.9"/>
+                                <circle cx="-50" cy="50" r="16" fill="#e2e8f0" opacity="0.65"/>
+                                <circle cx="-95" cy="48" r="22" fill="#94a3b8" opacity="0.45"/>
+                                <circle cx="-135" cy="46" r="28" fill="#64748b" opacity="0.3"/>
+                            </g>
+                            <!-- Main Red Body -->
+                            <path d="M10 48 L30 24 Q50 12 95 12 L130 26 Q150 34 156 46 L156 56 Q156 60 148 60 L14 60 Z" fill="#ef4444" stroke="#991b1b" stroke-width="3"/>
+                            <path d="M140 38 L160 40 L156 56 L140 56 Z" fill="#dc2626"/>
+                            <rect x="148" y="36" width="12" height="6" rx="2" fill="#fbbf24"/>
+                            <rect x="6" y="14" width="28" height="9" rx="2" fill="#dc2626"/>
+                            <rect x="14" y="23" width="7" height="25" fill="#991b1b"/>
+                            <!-- Cockpit & Driver Helmet -->
+                            <path d="M55 24 Q70 12 90 12 L98 24 Z" fill="#0f172a"/>
+                            <circle cx="75" cy="20" r="9" fill="#fbbf24"/>
+                            <path d="M72 16 Q82 16 85 22 L72 22 Z" fill="#38bdf8"/>
+                            <!-- Stripe -->
+                            <path d="M30 30 L128 30 L134 38 L30 38 Z" fill="#ffffff"/>
+                            <text x="65" y="37" font-size="10" font-weight="bold" fill="#dc2626">01</text>
+                            <!-- Giant Wheels -->
+                            <circle cx="36" cy="56" r="16" fill="#0f172a" stroke="#475569" stroke-width="3"/>
+                            <circle cx="36" cy="56" r="8" fill="#e2e8f0"/>
+                            <circle cx="124" cy="56" r="15" fill="#0f172a" stroke="#475569" stroke-width="3"/>
+                            <circle cx="124" cy="56" r="7.5" fill="#e2e8f0"/>
+                        </svg>
+                    </div>
+                </div>
+                <div class="celebration-stars" id="celebration-stars">⭐ +10 STARS EARNED! ⭐</div>
+            </div>
+        </div>
+
+        <!-- App Header Bar -->
+        <header class="app-header">
+            <button class="nav-back-btn" id="header-back-btn" onclick="goBack()">⬅️ Back</button>
+            <div class="top-stats">
+                <button class="fullscreen-btn" onclick="toggleFullScreen()" title="Full Screen Game Mode">📺 Fullscreen</button>
+                <div class="stat-badge">🔥 <span id="stat-streak">0</span></div>
+                <div class="stat-badge">⭐ <span id="stat-stars">0</span></div>
+            </div>
+        </header>
+
+        <!-- SCREEN 1: DASHBOARD VIEW -->
+        <div class="screen-view active" id="view-dashboard">
+            <h1 class="dash-title">🌟 Atharv's Mobile World 🚀</h1>
+            <p class="dash-subtitle">Pick a subject to start your learning adventure!</p>
+
+            <div class="subject-card" onclick="openSubject('english')">
+                <div class="card-info">
+                    <div class="card-icon">📖</div>
+                    <div>
+                        <div class="card-name" style="color: #f43f5e;">English & Phonics</div>
+                        <div class="card-count">14 Topics · 160+ Words & Dictations</div>
+                    </div>
+                </div>
+                <div style="font-size: 1.2rem; color: #94a3b8;">➡️</div>
+            </div>
+
+            <div class="subject-card" onclick="openSubject('maths')">
+                <div class="card-info">
+                    <div class="card-icon">🔢</div>
+                    <div>
+                        <div class="card-name" style="color: #22c55e;">Mathematics</div>
+                        <div class="card-count">14 Topics · Numbers 1-70, Alligator > < =</div>
+                    </div>
+                </div>
+                <div style="font-size: 1.2rem; color: #94a3b8;">➡️</div>
+            </div>
+
+            <div class="subject-card" onclick="openSubject('theme')">
+                <div class="card-info">
+                    <div class="card-icon">🏛️</div>
+                    <div>
+                        <div class="card-name" style="color: #f97316;">Theme & EVS</div>
+                        <div class="card-count">12 Topics · Body Organs, Supermarket</div>
+                    </div>
+                </div>
+                <div style="font-size: 1.2rem; color: #94a3b8;">➡️</div>
+            </div>
+
+            <div class="subject-card" onclick="openSubject('stream')">
+                <div class="card-info">
+                    <div class="card-icon">🧪</div>
+                    <div>
+                        <div class="card-name" style="color: #3b82f6;">STREAM & Science</div>
+                        <div class="card-count">12 Topics · Evaporation, Gravity, Density</div>
+                    </div>
+                </div>
+                <div style="font-size: 1.2rem; color: #94a3b8;">➡️</div>
+            </div>
+
+            <div class="subject-card" onclick="openSubject('arts')">
+                <div class="card-info">
+                    <div class="card-icon">🎨</div>
+                    <div>
+                        <div class="card-name" style="color: #a855f7;">Arts, Music & Stories</div>
+                        <div class="card-count">12 Topics · Color Mixer, Harmonium Sargam</div>
+                    </div>
+                </div>
+                <div style="font-size: 1.2rem; color: #94a3b8;">➡️</div>
+            </div>
+        </div>
+
+        <!-- SCREEN 2: TOPICS LIST VIEW -->
+        <div class="screen-view" id="view-topics">
+            <h2 id="topics-title" style="font-size: 1.35rem; font-weight: 600; color: #60a5fa; margin-bottom: 12px; text-align: center;">Select Topic</h2>
+            <div class="topic-list" id="topics-container"></div>
+        </div>
+
+        <!-- SCREEN 3: SYLLABUS INTRO CARD VIEW -->
+        <div class="screen-view" id="view-syllabus">
+            <div class="syllabus-card">
+                <div class="syl-icon" id="syl-icon">📖</div>
+                <div class="syl-title" id="syl-title">Magic 'e' Long Vowels</div>
+                <div class="syl-badge" id="syl-badge">8 WORDS TO MASTER</div>
+
+                <div class="syl-box">
+                    <strong>📋 What Atharv Will Learn:</strong>
+                    <ul id="syl-bullets">
+                        <li>Understand how silent Magic 'e' changes vowel sounds.</li>
+                        <li>Practice spelling & dictation words.</li>
+                        <li>Earn 10 Stars for every correct answer!</li>
+                    </ul>
+                </div>
+
+                <!-- PREVIEW ALL WORDS / QUESTIONS BEFORE PLAYING -->
+                <div class="words-preview-box">
+                    <div class="words-preview-title">
+                        <span>🔤 Words & Concepts to Learn (Tap to Listen):</span>
+                    </div>
+                    <div class="words-grid" id="syl-words-grid"></div>
+                </div>
+
+                <button class="start-btn" onclick="startCurrentGame()">🚀 START GAME NOW</button>
+            </div>
+        </div>
+
+        <!-- SCREEN 4: GAMEPLAY VIEW -->
+        <div class="screen-view" id="view-game">
+
+            <!-- Racetrack Header (Car facing right) -->
+            <div class="racetrack-box">
+                <div class="racetrack-top">
+                    <div>SCORE <span id="game-score">0/12</span></div>
+                    <div>STREAK 🔥 <span id="game-streak">0</span></div>
+                    <div>STARS ⭐ <span id="game-stars">0</span></div>
+                </div>
+                <div class="racetrack-road">
+                    <!-- Growing Exhaust Smoke/Fire Progress Trail -->
+                    <div class="racetrack-exhaust-trail" id="racetrack-exhaust-trail"></div>
+                    <div class="race-car" id="race-car">
+                        <svg class="car-svg" viewBox="-30 0 150 60" preserveAspectRatio="xMidYMid meet">
+                            <!-- Exhaust Fire Flames & Smoke (Shooting left out of rear exhaust) -->
+                            <g class="exhaust-flames" id="car-exhaust-flames">
+                                <path d="M5 42 Q-12 44 -26 42 Q-14 50 5 48 Z" fill="#ff4500"/>
+                                <path d="M5 44 Q-18 46 -32 44 Q-18 52 5 50 Z" fill="#fbbf24" opacity="0.9"/>
+                                <circle cx="-16" cy="45" r="4" fill="#cbd5e1" opacity="0.6"/>
+                                <circle cx="-26" cy="44" r="6" fill="#94a3b8" opacity="0.4"/>
+                            </g>
+                            <!-- Main Red Racing Body (Facing Right) -->
+                            <path d="M5 40 L22 20 Q40 10 75 10 L100 22 Q114 28 118 38 L118 46 Q118 48 112 48 L8 48 Z" fill="#ef4444" stroke="#b91c1c" stroke-width="2.5"/>
+                            <!-- Front Nose Cone & Wing -->
+                            <path d="M105 32 L120 34 L118 46 L105 46 Z" fill="#dc2626"/>
+                            <rect x="110" y="30" width="10" height="5" rx="2" fill="#fbbf24"/>
+                            <!-- Rear Wing / Spoiler -->
+                            <rect x="4" y="12" width="22" height="7" rx="2" fill="#dc2626"/>
+                            <rect x="10" y="19" width="5" height="21" fill="#991b1b"/>
+                            <!-- Driver Cockpit & Helmet -->
+                            <path d="M42 20 Q54 10 70 10 L76 20 Z" fill="#0f172a"/>
+                            <circle cx="58" cy="17" r="7" fill="#fbbf24"/>
+                            <path d="M56 14 Q64 14 66 19 L56 19 Z" fill="#38bdf8"/>
+                            <!-- Bold Racing Stripe & Number 01 -->
+                            <path d="M22 24 L98 24 L102 30 L22 30 Z" fill="#ffffff"/>
+                            <text x="50" y="29" font-size="8" font-weight="bold" fill="#dc2626" font-family="Arial, sans-serif">01</text>
+                            <!-- Big Alloy Wheels -->
+                            <circle cx="28" cy="45" r="13" fill="#0f172a" stroke="#475569" stroke-width="2.5"/>
+                            <circle cx="28" cy="45" r="6.5" fill="#e2e8f0"/>
+                            <circle cx="28" cy="45" r="3" fill="#0f172a"/>
+                            <circle cx="94" cy="45" r="12" fill="#0f172a" stroke="#475569" stroke-width="2.5"/>
+                            <circle cx="94" cy="45" r="6" fill="#e2e8f0"/>
+                            <circle cx="94" cy="45" r="2.5" fill="#0f172a"/>
+                            <!-- Headlight Glow -->
+                            <ellipse cx="118" cy="40" rx="3" ry="5" fill="#fef08a"/>
+                        </svg>
+                    </div>
+                    <div class="finish-flag">🏁</div>
+                </div>
+            </div>
+
+            <!-- Prompt & Image Card -->
+            <div class="prompt-card">
+                <div class="prompt-img" id="prompt-img">🌲</div>
+                <div class="prompt-text" id="prompt-text">tall evergreen tree with needles</div>
+                <div class="prompt-sub" id="prompt-sub">4 LETTERS · 1 OF 8</div>
+
+                <div class="sound-tools">
+                    <button class="tool-btn" onclick="speakCurrentPrompt()">🔊 Hear it</button>
+                    <button class="tool-btn" onclick="giveHint()">💡 Hint</button>
+                </div>
+
+                <!-- Mode A: Letter Slots -->
+                <div class="slots-row" id="slots-container" style="display: flex;"></div>
+
+                <!-- Mode B: Gravity Stage -->
+                <div class="gravity-stage" id="gravity-stage" style="display: none;">
+                    <div class="falling-item" id="falling-item">🍎</div>
+                </div>
+
+                <!-- Mode C: Color Mixer Slots -->
+                <div class="mixer-row" id="mixer-stage" style="display: none;">
+                    <div class="mix-slot" id="slot-color1">?</div>
+                    <div>+</div>
+                    <div class="mix-slot" id="slot-color2">?</div>
+                    <div>=</div>
+                    <div class="mix-slot" id="slot-color-result">?</div>
+                </div>
+            </div>
+
+            <!-- Interactive Keyboard / Options Grid -->
+            <div id="interaction-box">
+                <!-- Mode A: Touch Keyboard & Centered Action Buttons -->
+                <div class="keyboard-grid" id="keyboard-grid"></div>
+                <div class="keyboard-actions" id="keyboard-actions">
+                    <button class="key-action" onclick="deleteLetter()">⌫ Delete</button>
+                    <button class="key-action" onclick="clearLetters()">✕ Clear</button>
+                </div>
+
+                <!-- Mode B: 4 Option Quiz Cards -->
+                <div class="quiz-grid" id="quiz-grid" style="display: none;"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+    <script>
+        let currentSubjectKey = null;
+        let currentTopicObj = null;
+        let currentQuestionIdx = 0;
+        let currentScore = 0;
+        let currentStreak = 0;
+        let totalStars = parseInt(localStorage.getItem('atharv_mobile_stars') || '0');
+        let filledLetters = [];
+
+        document.getElementById('stat-stars').innerText = totalStars;
+
+        // Audio Synth
+        const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+        function playTone(type) {
+            const osc = audioCtx.createOscillator();
+            const gain = audioCtx.createGain();
+            osc.connect(gain);
+            gain.connect(audioCtx.destination);
+            if (type === 'correct') {
+                osc.frequency.setValueAtTime(523.25, audioCtx.currentTime);
+                osc.frequency.exponentialRampToValueAtTime(880, audioCtx.currentTime + 0.3);
+                gain.gain.setValueAtTime(0.3, audioCtx.currentTime);
+                gain.gain.exponentialRampToValueAtTime(0.01, audioCtx.currentTime + 0.3);
+                osc.start(); osc.stop(audioCtx.currentTime + 0.3);
+            } else {
+                osc.frequency.setValueAtTime(180, audioCtx.currentTime);
+                gain.gain.setValueAtTime(0.2, audioCtx.currentTime);
+                osc.start(); osc.stop(audioCtx.currentTime + 0.15);
+            }
+        }
+
+        // Full Screen Mode Controller & First-Touch Auto-Fullscreen
+        function toggleFullScreen() {
+            try {
+                const doc = document.documentElement;
+                if (!document.fullscreenElement && !document.webkitFullscreenElement) {
+                    if (doc.requestFullscreen) {
+                        doc.requestFullscreen();
+                    } else if (doc.webkitRequestFullscreen) {
+                        doc.webkitRequestFullscreen();
+                    } else if (doc.msRequestFullscreen) {
+                        doc.msRequestFullscreen();
+                    }
+                } else {
+                    if (document.exitFullscreen) {
+                        document.exitFullscreen();
+                    } else if (document.webkitExitFullscreen) {
+                        document.webkitExitFullscreen();
+                    }
+                }
+            } catch (e) {
+                console.log('Fullscreen error:', e);
+            }
+        }
+
+        let hasTriggeredFullscreen = false;
+        function autoFullscreenOnFirstTouch() {
+            if (!hasTriggeredFullscreen) {
+                hasTriggeredFullscreen = true;
+                toggleFullScreen();
+            }
+        }
+        document.addEventListener('touchstart', autoFullscreenOnFirstTouch, { once: true });
+        document.addEventListener('click', autoFullscreenOnFirstTouch, { once: true });
+
+        // Web Audio API Race Car Engine Doppler Vroom Sound Synthesizer
+        function playVroomSound() {
+            try {
+                const ctx = audioCtx;
+                if (ctx.state === 'suspended') {
+                    ctx.resume();
+                }
+                const now = ctx.currentTime;
+                const duration = 2.5;
+
+                // 1. Sawtooth Oscillator for Race Car Engine Roar
+                const osc = ctx.createOscillator();
+                osc.type = 'sawtooth';
+
+                // 2. Sub Oscillator for Deep Bass Rumble
+                const subOsc = ctx.createOscillator();
+                subOsc.type = 'triangle';
+
+                // 3. Filter for Doppler Pass-By Effect
+                const filter = ctx.createBiquadFilter();
+                filter.type = 'lowpass';
+
+                // 4. Volume Gain Node
+                const gain = ctx.createGain();
+
+                // Pitch Sweep (Approaching VHOOOOOM! revs up then drops as car passes)
+                osc.frequency.setValueAtTime(130, now);
+                osc.frequency.exponentialRampToValueAtTime(450, now + 1.1);
+                osc.frequency.exponentialRampToValueAtTime(110, now + duration);
+
+                subOsc.frequency.setValueAtTime(65, now);
+                subOsc.frequency.exponentialRampToValueAtTime(225, now + 1.1);
+                subOsc.frequency.exponentialRampToValueAtTime(55, now + duration);
+
+                // Biquad Filter Frequency Sweep for "VHOOOOOM" Resonant Roar
+                filter.frequency.setValueAtTime(280, now);
+                filter.frequency.exponentialRampToValueAtTime(2000, now + 1.1);
+                filter.frequency.exponentialRampToValueAtTime(220, now + duration);
+
+                // Volume Gain Envelope
+                gain.gain.setValueAtTime(0.01, now);
+                gain.gain.linearRampToValueAtTime(0.35, now + 1.1);
+                gain.gain.exponentialRampToValueAtTime(0.001, now + duration);
+
+                osc.connect(filter);
+                subOsc.connect(filter);
+                filter.connect(gain);
+                gain.connect(ctx.destination);
+
+                osc.start(now);
+                subOsc.start(now);
+                osc.stop(now + duration);
+                subOsc.stop(now + duration);
+            } catch (e) {
+                console.log('Audio error:', e);
+            }
+        }
+
+        // Web Speech API - Female / Lady Voice Selection
+        let femaleVoice = null;
+        function loadFemaleVoice() {
+            if ('speechSynthesis' in window) {
+                const voices = window.speechSynthesis.getVoices();
+                femaleVoice = voices.find(v => 
+                    v.lang.startsWith('en') && (
+                        v.name.includes('Female') || 
+                        v.name.includes('Samantha') || 
+                        v.name.includes('Zira') || 
+                        v.name.includes('Google US English') || 
+                        v.name.includes('Victoria') || 
+                        v.name.includes('Karen') || 
+                        v.name.includes('Fiona') || 
+                        v.name.includes('Moira')
+                    )
+                ) || voices.find(v => v.lang.startsWith('en')) || null;
+            }
+        }
+        if ('speechSynthesis' in window) {
+            window.speechSynthesis.onvoiceschanged = loadFemaleVoice;
+            loadFemaleVoice();
+        }
+
+        function speak(text) {
+            if ('speechSynthesis' in window) {
+                window.speechSynthesis.cancel();
+                const msg = new SpeechSynthesisUtterance(text);
+                if (femaleVoice) msg.voice = femaleVoice;
+                msg.rate = 0.85; 
+                msg.pitch = 1.35;
+                window.speechSynthesis.speak(msg);
+            }
+        }
+
+        // Dataset
+        const subjectsData = {
+            english: {
+                title: "📖 English Phonics & Reading",
+                topics: [
+                    {
+                        title: "1. Long Vowel 'i' (Magic 'e')", tag: "school", count: "8 Words",
+                        sylBullets: ["Dictation for Sept 22", "Words with Long 'i' sound using Magic 'e'", "Spell 8 target words correctly!"],
+                        type: "speller",
+                        words: [
+                            { word: "pine", hint: "tall evergreen tree with needles", img: "🌲" },
+                            { word: "file", hint: "folder used to organize papers", img: "📁" },
+                            { word: "bike", hint: "two-wheeler with pedals to ride", img: "🚲" },
+                            { word: "kite", hint: "flying high in the sky with a string", img: "🪁" },
+                            { word: "pipe", hint: "tube through which water flows", img: "🚰" },
+                            { word: "hive", hint: "home where bees make honey", img: "🐝" },
+                            { word: "tile", hint: "square block on floor or wall", img: "🧱" },
+                            { word: "hide", hint: "playing a game of seek", img: "🙈" }
+                        ]
+                    },
+                    {
+                        title: "2. Long Vowel 'o' (Magic 'e')", tag: "school", count: "8 Words",
+                        sylBullets: ["Dictation for Sept 28", "Words with Long 'o' sound using Magic 'e'", "Spell 8 target words correctly!"],
+                        type: "speller",
+                        words: [
+                            { word: "robe", hint: "soft warm bath garment", img: "🥋" },
+                            { word: "hope", hint: "wishing for something good to happen", img: "🌟" },
+                            { word: "note", hint: "short message written on paper", img: "📝" },
+                            { word: "dome", hint: "rounded roof on a building", img: "🏛️" },
+                            { word: "code", hint: "secret combination or script", img: "💻" },
+                            { word: "bone", hint: "what a dog loves to chew on", img: "🦴" },
+                            { word: "rose", hint: "beautiful red flower with thorns", img: "🌹" },
+                            { word: "lobe", hint: "soft bottom part of your ear", img: "👂" }
+                        ]
+                    },
+                    {
+                        title: "3. Long Vowel 'u' (Magic 'e')", tag: "school", count: "8 Words",
+                        sylBullets: ["Dictation for Oct 5", "Words with Long 'u' sound using Magic 'e'", "Spell 8 target words correctly!"],
+                        type: "speller",
+                        words: [
+                            { word: "cube", hint: "3D square ice block or toy", img: "🧊" },
+                            { word: "mule", hint: "animal similar to a donkey", img: "🫏" },
+                            { word: "tube", hint: "toothpaste container", img: "🧪" },
+                            { word: "cute", hint: "sweet and adorable puppy", img: "🐶" },
+                            { word: "tune", hint: "catchy musical melody", img: "🎵" },
+                            { word: "mute", hint: "silent without any sound", img: "🔇" }
+                        ]
+                    },
+                    {
+                        title: "4. Consonant Blends (pl & sl)", tag: "school", count: "8 Words",
+                        sylBullets: ["Learn 'pl' and 'sl' consonant blend words", "Spell words with blend sounds"],
+                        type: "speller",
+                        words: [
+                            { word: "plum", hint: "sweet purple fruit", img: "🍑" },
+                            { word: "plan", hint: "drawing an idea or map", img: "🗺️" },
+                            { word: "plug", hint: "connect to electric socket", img: "🔌" },
+                            { word: "slow", hint: "opposite of fast", img: "🐢" },
+                            { word: "slug", hint: "a snail with no shell", img: "🐌" }
+                        ]
+                    },
+                    {
+                        title: "5. Consonant Blends (gl & cl)", tag: "school", count: "8 Words",
+                        sylBullets: ["Learn 'gl' and 'cl' blend words"],
+                        type: "speller",
+                        words: [
+                            { word: "glad", hint: "feeling very happy", img: "😀" },
+                            { word: "glue", hint: "sticky liquid in a bottle", img: "🧴" },
+                            { word: "clap", hint: "hit hands together for noise", img: "👏" },
+                            { word: "clay", hint: "soft dough for shaping art", img: "🎨" }
+                        ]
+                    },
+                    {
+                        title: "6. Consonant Blends (bl & fl)", tag: "school", count: "8 Words",
+                        sylBullets: ["Learn 'bl' and 'fl' blend words"],
+                        type: "speller",
+                        words: [
+                            { word: "blue", hint: "color of the clear sky", img: "🟦" },
+                            { word: "blow", hint: "puff air on candles", img: "🎂" },
+                            { word: "flow", hint: "water moving down a stream", img: "🌊" },
+                            { word: "flip", hint: "turn over a pancake", img: "🥞" }
+                        ]
+                    },
+                    {
+                        title: "7. Digraphs (sh vs ch)", tag: "school", count: "8 Words",
+                        sylBullets: ["Learn 'sh' and 'ch' digraph sounds"],
+                        type: "speller",
+                        words: [
+                            { word: "ship", hint: "large vessel sailing on ocean", img: "🚢" },
+                            { word: "shop", hint: "store where you buy things", img: "🛍️" },
+                            { word: "fish", hint: "swimming aquatic creature", img: "🐟" },
+                            { word: "chin", hint: "part of face below your mouth", img: "🗣️" }
+                        ]
+                    },
+                    {
+                        title: "8. Short vs Long 'oo' Digraphs", tag: "school", count: "6 Words",
+                        sylBullets: ["Learn Short 'oo' vs Long 'oo'"],
+                        type: "speller",
+                        words: [
+                            { word: "book", hint: "pages filled with stories", img: "📚" },
+                            { word: "moon", hint: "shining bright in night sky", img: "🌙" },
+                            { word: "zoo", hint: "place where wild animals live", img: "🦁" }
+                        ]
+                    },
+                    {
+                        title: "9. Short Vowel CVC Words", tag: "school", count: "10 Words",
+                        sylBullets: ["Short 'i', 'o', 'u' CVC words"],
+                        type: "speller",
+                        words: [
+                            { word: "pig", hint: "pink farm animal that oinks", img: "🐷" },
+                            { word: "sun", hint: "bright star that warms Earth", img: "☀️" },
+                            { word: "dog", hint: "pet that barks and wags tail", img: "🐶" },
+                            { word: "bug", hint: "tiny crawling insect", img: "🐛" }
+                        ]
+                    },
+                    {
+                        title: "10. Fitzroy Reader: The Animals", tag: "school", count: "5 Questions",
+                        sylBullets: ["Read story 'The Animals'", "Practice guided reading"],
+                        type: "quiz",
+                        questions: [
+                            { text: "The animals are happy in the...", options: [{ t: "zoo 🦁", c: true }, { t: "house 🏠", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "11. Fitzroy Reader: Frog & Fly", tag: "school", count: "5 Questions",
+                        sylBullets: ["Read story 'The Frog and the Fly'"],
+                        type: "quiz",
+                        questions: [
+                            { text: "Who jumps on the lily pad?", options: [{ t: "The frog 🐸", c: true }, { t: "The fly 🪰", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "12. Fitzroy Reader: The Lost Bear", tag: "school", count: "5 Questions",
+                        sylBullets: ["Read story 'The Lost Bear'"],
+                        type: "quiz",
+                        questions: [
+                            { text: "Who was lost in the woods?", options: [{ t: "Little Bear 🧸", c: true }, { t: "Big Elephant 🐘", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "🌟 13. EXTRA: Long Vowel 'a' (Magic 'e')", tag: "bonus", count: "8 Words",
+                        sylBullets: ["Bonus practice for advanced reading"],
+                        type: "speller",
+                        words: [
+                            { word: "cake", hint: "sweet dessert with candles", img: "🎂" },
+                            { word: "bake", hint: "cook bread in hot oven", img: "🥖" },
+                            { word: "lake", hint: "large body of fresh water", img: "🏞️" },
+                            { word: "tape", hint: "sticky roll to join paper", img: "📼" }
+                        ]
+                    },
+                    {
+                        title: "🌟 14. EXTRA: Double Vowels 'ee' & 'ea'", tag: "bonus", count: "8 Words",
+                        sylBullets: ["Bonus practice for vowel teams"],
+                        type: "speller",
+                        words: [
+                            { word: "tree", hint: "tall green plant with branches", img: "🌳" },
+                            { word: "bee", hint: "yellow insect making honey", img: "🐝" },
+                            { word: "feet", hint: "you stand on these inside shoes", img: "🦶" },
+                            { word: "leaf", hint: "green part growing on plant", img: "🍃" }
+                        ]
+                    }
+                ]
+            },
+            maths: {
+                title: "🔢 Mathematics & Numbers",
+                topics: [
+                    {
+                        title: "1. Forward Counting (1 to 70)", tag: "school", count: "10 Questions",
+                        sylBullets: ["Count forward from 1 to 70", "Fill in missing numbers in sequence"],
+                        type: "quiz",
+                        questions: [
+                            { text: "What number comes next? 12, 13, 14, __", options: [{ t: "15", c: true }, { t: "16", c: false }, { t: "11", c: false }] },
+                            { text: "Fill in blank: 45, __, 47, 48", options: [{ t: "46", c: true }, { t: "44", c: false }, { t: "49", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "2. Backward Counting (20 to 1)", tag: "school", count: "8 Questions",
+                        sylBullets: ["Count backward from 20 down to 1"],
+                        type: "quiz",
+                        questions: [
+                            { text: "Count backward: 10, 9, 8, __, 6", options: [{ t: "7", c: true }, { t: "11", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "3. Skip Counting by 2's (2 to 20)", tag: "school", count: "10 Questions",
+                        sylBullets: ["Skip count by 2s: 2, 4, 6, 8, 10..."],
+                        type: "quiz",
+                        questions: [
+                            { text: "Skip count by 2s: 2, 4, __, 8, 10", options: [{ t: "6", c: true }, { t: "5", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "4. Hungry Alligator Greater Than (>)", tag: "school", count: "8 Questions",
+                        sylBullets: ["Hungry Alligator eats BIGGER number! Example: 15 > 8"],
+                        type: "quiz",
+                        questions: [
+                            { text: "Which symbol fits? 15 [  ] 8", options: [{ t: "> (Greater)", c: true }, { t: "< (Less)", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "5. Hungry Alligator Less Than (<)", tag: "school", count: "8 Questions",
+                        sylBullets: ["Alligator eats larger right number! Example: 4 < 12"],
+                        type: "quiz",
+                        questions: [
+                            { text: "Which symbol fits? 4 [  ] 12", options: [{ t: "< (Less)", c: true }, { t: "> (Greater)", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "6. Equal Alligator (=)", tag: "school", count: "8 Questions",
+                        sylBullets: ["Both sides equal! Example: 9 = 9"],
+                        type: "quiz",
+                        questions: [
+                            { text: "Which symbol fits? 9 [  ] 9", options: [{ t: "= (Equal)", c: true }, { t: ">", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "7. Skip Counting by 5's (5 to 70)", tag: "school", count: "10 Questions",
+                        sylBullets: ["Skip count by 5s: 5, 10, 15, 20..."],
+                        type: "quiz",
+                        questions: [
+                            { text: "Skip count by 5s: 5, 10, __, 20, 25", options: [{ t: "15", c: true }, { t: "12", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "8. Candy Jar Comparison", tag: "school", count: "8 Questions",
+                        sylBullets: ["Workbook Pg 28 Candy Jars comparison"],
+                        type: "quiz",
+                        questions: [
+                            { text: "Jar A has 14 candies, Jar B has 9. Compare!", options: [{ t: "14 > 9", c: true }, { t: "14 < 9", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "9. Red & Yellow Sorting", tag: "school", count: "8 Questions",
+                        sylBullets: ["Workbook Pg 9 Sorting red vs yellow objects"],
+                        type: "quiz",
+                        questions: [
+                            { text: "🍎 Red Apple goes to...", options: [{ t: "Red Basket 🔴", c: true }, { t: "Yellow Basket 🟡", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "10. Number Names (One to Ten)", tag: "school", count: "10 Questions",
+                        sylBullets: ["Number names identification"],
+                        type: "quiz",
+                        questions: [
+                            { text: "What is the number name for 6?", options: [{ t: "Six", c: true }, { t: "Seven", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "11. Sequence & Pattern Completion", tag: "school", count: "8 Questions",
+                        sylBullets: ["Complete shape and color patterns"],
+                        type: "quiz",
+                        questions: [
+                            { text: "Complete pattern: 🔴 🟡 🔴 🟡 __", options: [{ t: "🔴 Red", c: true }, { t: "🟡 Yellow", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "12. Caterpillar Body Chain 2s", tag: "school", count: "8 Questions",
+                        sylBullets: ["Caterpillar skip counting by 2s"],
+                        type: "quiz",
+                        questions: [
+                            { text: "Caterpillar circle sequence: 6, 8, 10, __, 14", options: [{ t: "12", c: true }, { t: "11", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "🌟 13. EXTRA: Visual Addition Dots (1+6=7)", tag: "bonus", count: "10 Questions",
+                        sylBullets: ["Bonus practice for visual addition"],
+                        type: "quiz",
+                        questions: [
+                            { text: "+ 🔵🔵🔵🔵🔵🔵 (1 + 6 = ?)", options: [{ t: "7", c: true }, { t: "9", c: false }, { t: "5", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "🌟 14. EXTRA: Number Line 1-20 Placement", tag: "bonus", count: "10 Questions",
+                        sylBullets: ["Bonus grid practice for numbers 1 to 20"],
+                        type: "quiz",
+                        questions: [
+                            { text: "Where does number 15 go on the number line?", options: [{ t: "Between 14 and 16", c: true }, { t: "Before 10", c: false }] }
+                        ]
+                    }
+                ]
+            },
+            theme: {
+                title: "🏛️ Theme & EVS",
+                topics: [
+                    {
+                        title: "1. Supermarket Crossword", tag: "school", count: "8 Questions",
+                        sylBullets: ["Workbook Pg 22 Supermarket crossword items"],
+                        type: "quiz",
+                        questions: [
+                            { text: "🥛 White drink from cows found at supermarket:", options: [{ t: "Milk 🥛", c: true }, { t: "Toy Car 🚗", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "2. Supermarket Exit Maze", tag: "school", count: "8 Questions",
+                        sylBullets: ["Workbook Pg 23 Supermarket shopping list exit maze"],
+                        type: "quiz",
+                        questions: [
+                            { text: "Follow shopping list sequence out of supermarket:", options: [{ t: "Apples 🍎 ➔ Cereal 🥣 ➔ Milk 🥛", c: true }, { t: "Toys 🧸", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "3. Amusement vs Theme Park", tag: "school", count: "8 Questions",
+                        sylBullets: ["Distinguish Amusement Park rides vs Theme Park"],
+                        type: "quiz",
+                        questions: [
+                            { text: "🎡 Ferris Wheel & Bumper Cars are at an...", options: [{ t: "Amusement Park 🎡", c: true }, { t: "Hospital 🏥", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "4. Movie Theatre & Spiderman Outing", tag: "school", count: "8 Questions",
+                        sylBullets: ["Field trip to Movie Maxx on Sept 7"],
+                        type: "quiz",
+                        questions: [
+                            { text: "🍿 Popular movie snack we enjoyed:", options: [{ t: "Popcorn 🍿", c: true }, { t: "Soup 🥣", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "5. Police Station Community Helper", tag: "school", count: "8 Questions",
+                        sylBullets: ["Police Station field trip & safety"],
+                        type: "quiz",
+                        questions: [
+                            { text: "🚔 Who keeps our community safe?", options: [{ t: "Police Officer 👮", c: true }, { t: "Baker 🥖", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "6. Internal Body Organs", tag: "school", count: "10 Questions",
+                        sylBullets: ["Workbook Pg 6 Internal organs"],
+                        type: "quiz",
+                        questions: [
+                            { text: "❤️ Which internal organ pumps blood?", options: [{ t: "Heart ❤️", c: true }, { t: "Stomach 🥣", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "7. Daily Routine Sequence", tag: "school", count: "8 Questions",
+                        sylBullets: ["Workbook Pg 8 Daily routine sequence"],
+                        type: "quiz",
+                        questions: [
+                            { text: "What do you do first in the morning?", options: [{ t: "Brush teeth 🪥", c: true }, { t: "Go to sleep 😴", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "8. Healthy Tiffin (FDA Rules)", tag: "school", count: "10 Questions",
+                        sylBullets: ["FDA/FSSAI Healthy Food guidelines"],
+                        type: "quiz",
+                        questions: [
+                            { text: "🍱 Healthy choice for school tiffin:", options: [{ t: "Fresh Fruits & Idli 🍎", c: true }, { t: "Chips & Colas 🥤", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "9. Ganesh Chaturthi & Lezim Dance", tag: "school", count: "8 Questions",
+                        sylBullets: ["Ganesh Chaturthi celebration"],
+                        type: "quiz",
+                        questions: [
+                            { text: "🥁 Traditional Maharashtrian dance performed:", options: [{ t: "Lezim Dance 🥁", c: true }, { t: "Disco 🪩", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "10. Janmashtami Celebration", tag: "school", count: "8 Questions",
+                        sylBullets: ["Janmashtami paper handi craft"],
+                        type: "quiz",
+                        questions: [
+                            { text: "🏺 What paper craft was decorated?", options: [{ t: "Paper Handi 🏺", c: true }, { t: "Kite 🪁", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "🌟 11. EXTRA: Sense Organs", tag: "bonus", count: "10 Questions",
+                        sylBullets: ["Bonus practice for 5 Sense Organs"],
+                        type: "quiz",
+                        questions: [
+                            { text: "👁️ Which sense organ helps you see colorful books?", options: [{ t: "Eyes 👁️", c: true }, { t: "Ears 👂", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "🌟 12. EXTRA: Dental Hygiene & Teeth Quiz", tag: "bonus", count: "8 Questions",
+                        sylBullets: ["Bonus hygiene quiz"],
+                        type: "quiz",
+                        questions: [
+                            { text: "Which body part helps you chew your food?", options: [{ t: "Teeth 🦷", c: true }, { t: "Stomach 🥣", c: false }, { t: "Muscles 💪", c: false }, { t: "Heart ❤️", c: false }] }
+                        ]
+                    }
+                ]
+            },
+            stream: {
+                title: "🧪 STREAM & Science",
+                topics: [
+                    {
+                        title: "1. Muddy Puddle Evaporation", tag: "school", count: "8 Questions",
+                        sylBullets: ["Sun heats water in puddle ➔ Water turns to vapour"],
+                        type: "quiz",
+                        questions: [
+                            { text: "☀️ When the sun heats up a muddy puddle, water turns into...", options: [{ t: "Water Vapour (Gas) 💨", c: true }, { t: "Ice 🧊", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "2. Bowling Push Force Simulator", tag: "school", count: "8 Questions",
+                        sylBullets: ["Force is a Push or a Pull"],
+                        type: "quiz",
+                        questions: [
+                            { text: "🎳 Rolling a bowling ball to hit pins is a...", options: [{ t: "Push Force 🖐️", c: true }, { t: "Pull Force 🪢", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "3. Gravity Drop Simulator", tag: "school", count: "8 Questions",
+                        sylBullets: ["Gravity pulls dropped objects down to Earth"],
+                        type: "gravity",
+                        questions: [
+                            { text: "Tap object to drop it and watch gravity pull it down! What is gravity?", options: [{ t: "A force that pulls things down to Earth 🌍", c: true }, { t: "A kind of animal 🦁", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "4. Cosmos Planetarium Constellations", tag: "school", count: "8 Questions",
+                        sylBullets: ["Cosmos Dome planetarium activity"],
+                        type: "quiz",
+                        questions: [
+                            { text: "🌌 Groups of stars forming pattern shapes in the night sky:", options: [{ t: "Constellations 🌌", c: true }, { t: "Clouds ☁️", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "5. Liquid Density Tower", tag: "school", count: "8 Questions",
+                        sylBullets: ["Honey (bottom), Water (middle), Oil (top)"],
+                        type: "quiz",
+                        questions: [
+                            { text: "🍯 Which heavy liquid sinks to the bottom of the density glass?", options: [{ t: "Honey 🍯", c: true }, { t: "Oil 🛢️", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "6. Light & Shadow Puppet Lab", tag: "school", count: "8 Questions",
+                        sylBullets: ["An opaque object blocking light creates a shadow"],
+                        type: "quiz",
+                        questions: [
+                            { text: "🔦 When an object blocks light, it makes a...", options: [{ t: "Shadow 👤", c: true }, { t: "Rainbow 🌈", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "7. Loud vs Soft Sound", tag: "school", count: "8 Questions",
+                        sylBullets: ["Loud sounds vs Soft sounds"],
+                        type: "quiz",
+                        questions: [
+                            { text: "📢 A car horn is a...", options: [{ t: "Loud Sound 🔊", c: true }, { t: "Soft Sound 🤫", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "8. Rainbow Skittles Experiment", tag: "school", count: "8 Questions",
+                        sylBullets: ["Warm water dissolves Skittles dye"],
+                        type: "quiz",
+                        questions: [
+                            { text: "🌈 Warm water on Skittles plate creates a...", options: [{ t: "Rainbow Swirl 🌀", c: true }, { t: "Bubbles 🫧", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "9. Community Buildings Map", tag: "school", count: "8 Questions",
+                        sylBullets: ["Community buildings"],
+                        type: "quiz",
+                        questions: [
+                            { text: "🏥 Where do doctors & nurses care for sick people?", options: [{ t: "Hospital 🏥", c: true }, { t: "Bakery 🍞", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "10. Water Cycle 4-Step", tag: "school", count: "8 Questions",
+                        sylBullets: ["Evaporation water cycle"],
+                        type: "quiz",
+                        questions: [
+                            { text: "What heats up the water in the puddle?", options: [{ t: "The Sun ☀️", c: true }, { t: "The Moon 🌙", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "🌟 11. EXTRA: Floating vs Sinking", tag: "bonus", count: "10 Questions",
+                        sylBullets: ["Bonus physics practice"],
+                        type: "quiz",
+                        questions: [
+                            { text: "🪨 A heavy stone dropped in water will...", options: [{ t: "Sink to the bottom ⬇️", c: true }, { t: "Float on top ⬆️", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "🌟 12. EXTRA: Day & Night Earth Rotation", tag: "bonus", count: "8 Questions",
+                        sylBullets: ["Bonus astronomy practice"],
+                        type: "quiz",
+                        questions: [
+                            { text: "☀️ What shines in the sky during daytime?", options: [{ t: "The Sun ☀️", c: true }, { t: "The Moon 🌙", c: false }] }
+                        ]
+                    }
+                ]
+            },
+            arts: {
+                title: "🎨 Arts, Music & Stories",
+                topics: [
+                    {
+                        title: "1. Primary & Secondary Colour Mixer", tag: "school", count: "10 Questions",
+                        sylBullets: ["Red+Yellow=Orange, Blue+Yellow=Green, Red+Blue=Purple"],
+                        type: "quiz",
+                        questions: [
+                            { text: "What color do Red and Blue make?", options: [{ t: "purple 🟪", c: true }, { t: "green 🟩", c: false }, { t: "orange 🟧", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "2. Harmonium Sargam Keyboard", tag: "school", count: "8 Notes",
+                        sylBullets: ["Practice Sargam: Sa Re Ga Ma Pa Dha Ni Sa"],
+                        type: "quiz",
+                        questions: [
+                            { text: "🎹 What is the first note of Harmonium Sargam?", options: [{ t: "Sa", c: true }, { t: "Re", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "3. Kandinsky Concentric Circles", tag: "school", count: "8 Questions",
+                        sylBullets: ["Artist Kandinsky circle paintings"],
+                        type: "quiz",
+                        questions: [
+                            { text: "🎯 Kandinsky Circles start from...", options: [{ t: "Center dot outward ⭕", c: true }, { t: "Square corners ⏹️", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "4. Bottle Cap Texture Printmaking", tag: "school", count: "8 Questions",
+                        sylBullets: ["Stamping bottle caps"],
+                        type: "quiz",
+                        questions: [
+                            { text: "🍾 Stamping bottle caps in paint creates...", options: [{ t: "Round textured prints ⭕", c: true }, { t: "Triangles 🔺", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "5. Very Hungry Caterpillar", tag: "school", count: "8 Questions",
+                        sylBullets: ["Library Storybook"],
+                        type: "quiz",
+                        questions: [
+                            { text: "🐛 What does the hungry caterpillar turn into?", options: [{ t: "Beautiful Butterfly 🦋", c: true }, { t: "Little Bird 🐦", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "6. Night Monkey, Day Monkey", tag: "school", count: "8 Questions",
+                        sylBullets: ["Library Storybook"],
+                        type: "quiz",
+                        questions: [
+                            { text: "🌙 Who loves the moon and stays awake at night?", options: [{ t: "Night Monkey 🐒", c: true }, { t: "Day Monkey 🐵", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "7. Oliver's Vegetables", tag: "school", count: "8 Questions",
+                        sylBullets: ["Library Storybook"],
+                        type: "quiz",
+                        questions: [
+                            { text: "🥕 Crunchy orange vegetable good for eyes:", options: [{ t: "Carrot 🥕", c: true }, { t: "Candy 🍬", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "8. Fast Fox & Slow Snail", tag: "school", count: "8 Questions",
+                        sylBullets: ["Library Storybook"],
+                        type: "quiz",
+                        questions: [
+                            { text: "🐌 Which animal moves very slowly?", options: [{ t: "Slow Snail 🐌", c: true }, { t: "Fast Fox 🦊", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "9. Garden Flowers & Leaves Study", tag: "school", count: "8 Questions",
+                        sylBullets: ["Horticulture garden visit"],
+                        type: "quiz",
+                        questions: [
+                            { text: "🪷 National Flower that floats in water ponds:", options: [{ t: "Lotus 🪷", c: true }, { t: "Rose 🌹", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "10. Obstacle Race Fitness", tag: "school", count: "8 Questions",
+                        sylBullets: ["Sports obstacle race"],
+                        type: "quiz",
+                        questions: [
+                            { text: "🏃 Race where you run and collect bean bags:", options: [{ t: "Obstacle Race 🏁", c: true }, { t: "Sleeping Race 😴", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "🌟 11. EXTRA: Musical Instruments Sorter", tag: "bonus", count: "8 Questions",
+                        sylBullets: ["Bonus music practice"],
+                        type: "quiz",
+                        questions: [
+                            { text: "🥁 Which instrument do you hit with sticks?", options: [{ t: "Drums 🥁", c: true }, { t: "Flute 🪈", c: false }] }
+                        ]
+                    },
+                    {
+                        title: "🌟 12. EXTRA: Warm vs Cool Colours", tag: "bonus", count: "8 Questions",
+                        sylBullets: ["Bonus art color theory"],
+                        type: "quiz",
+                        questions: [
+                            { text: "☀️ Which color is a Warm Color like the sun?", options: [{ t: "Yellow 🟡", c: true }, { t: "Blue 🔵", c: false }] }
+                        ]
+                    }
+                ]
+            }
+        };
+
+        // Navigation Controller
+        function showView(viewId) {
+            document.querySelectorAll('.screen-view').forEach(v => v.classList.remove('active'));
+            document.getElementById(viewId).classList.add('active');
+            
+            const backBtn = document.getElementById('header-back-btn');
+            if (viewId === 'view-dashboard') {
+                backBtn.style.visibility = 'hidden';
+            } else {
+                backBtn.style.visibility = 'visible';
+            }
+        }
+
+        function goBack() {
+            const activeView = document.querySelector('.screen-view.active').id;
+            if (activeView === 'view-topics') showView('view-dashboard');
+            else if (activeView === 'view-syllabus') showView('view-topics');
+            else if (activeView === 'view-game') showView('view-syllabus');
+        }
+
+        function openSubject(subjKey) {
+            currentSubjectKey = subjKey;
+            const subj = subjectsData[subjKey];
+            document.getElementById('topics-title').innerText = subj.title;
+            const container = document.getElementById('topics-container');
+            container.innerHTML = '';
+
+            subj.topics.forEach((t, idx) => {
+                const item = document.createElement('div');
+                item.className = 'topic-item';
+                const tagClass = t.tag === 'school' ? 'tag-school' : 'tag-bonus';
+                const tagLabel = t.tag === 'school' ? 'School Syllabus' : '🌟 Extra Bonus';
+                
+                const exactCount = t.type === 'speller' ? (t.words ? t.words.length : 0) : (t.questions ? t.questions.length : 0);
+                const unitName = t.type === 'speller' ? 'Words' : 'Questions';
+
+                item.innerHTML = `
+                    <div>
+                        <div class="topic-title">${t.title}</div>
+                        <span class="topic-tag ${tagClass}">${tagLabel} · ${exactCount} ${unitName}</span>
+                    </div>
+                    <div>➡️</div>
+                `;
+                item.onclick = () => openSyllabusCard(idx);
+                container.appendChild(item);
+            });
+
+            showView('view-topics');
+        }
+
+        function openSyllabusCard(topicIdx) {
+            const subj = subjectsData[currentSubjectKey];
+            currentTopicObj = subj.topics[topicIdx];
+
+            const exactTotal = currentTopicObj.type === 'speller' ? currentTopicObj.words.length : currentTopicObj.questions.length;
+            const unitLabel = currentTopicObj.type === 'speller' ? 'WORDS' : 'QUESTIONS';
+
+            document.getElementById('syl-title').innerText = currentTopicObj.title;
+            document.getElementById('syl-badge').innerText = `${exactTotal} ${unitLabel} TO MASTER`;
+            
+            const bulletsUl = document.getElementById('syl-bullets');
+            bulletsUl.innerHTML = '';
+            currentTopicObj.sylBullets.forEach(b => {
+                const li = document.createElement('li');
+                li.innerText = b;
+                bulletsUl.appendChild(li);
+            });
+
+            // Populate Words / Questions Preview Grid
+            const wordsGrid = document.getElementById('syl-words-grid');
+            wordsGrid.innerHTML = '';
+
+            if (currentTopicObj.type === 'speller') {
+                currentTopicObj.words.forEach(w => {
+                    const item = document.createElement('div');
+                    item.className = 'word-chip';
+                    item.innerHTML = `<span class="chip-img">${w.img}</span> <span class="chip-word">${w.word.toUpperCase()}</span>`;
+                    item.onclick = () => speak(w.word + "! " + w.word.split('').join(' . ') + ". " + w.hint);
+                    wordsGrid.appendChild(item);
+                });
+            } else if (currentTopicObj.questions) {
+                currentTopicObj.questions.forEach((q, qIdx) => {
+                    const item = document.createElement('div');
+                    item.className = 'word-chip quiz-chip';
+                    item.innerHTML = `<span class="chip-num">Q${qIdx+1}</span> <span>${q.text}</span>`;
+                    item.onclick = () => speak(q.text);
+                    wordsGrid.appendChild(item);
+                });
+            }
+
+            speak("Topic: " + currentTopicObj.title + ". Learn the words before starting!");
+            showView('view-syllabus');
+        }
+
+        function startCurrentGame() {
+            currentQuestionIdx = 0;
+            currentScore = 0;
+            currentStreak = 0;
+            showView('view-game');
+            renderQuestion();
+        }
+
+        // Mobile Haptic Vibration API for 3-Second Pass-By Car Engine Rumble
+        function triggerCarVibration() {
+            if ('vibrate' in navigator) {
+                try {
+                    // Pass-By Engine Rumble Haptic Pattern (Approach -> Peak Rumble -> Fade)
+                    navigator.vibrate([
+                        40, 60, 50, 50, 70, 40, 100, 30,     // Approach (0s - 0.8s)
+                        250, 30, 350, 20, 300, 30, 250, 40,  // Peak Pass-By Engine Rumble (0.8s - 2.0s)
+                        120, 50, 80, 70, 40, 100, 30         // Fading away (2.0s - 3.0s)
+                    ]);
+                } catch (e) {
+                    console.log('Vibration error:', e);
+                }
+            }
+        }
+
+        function triggerCarCelebration(titleText, starsText, callback) {
+            const overlay = document.getElementById('car-celebration-overlay');
+            const title = document.getElementById('celebration-title');
+            const stars = document.getElementById('celebration-stars');
+            const trackCar = document.getElementById('race-car');
+
+            if (trackCar) trackCar.classList.add('exhaust-boost');
+
+            title.innerText = titleText || '🔥 TURBO BOOST! CORRECT! 🏁';
+            stars.innerText = starsText || '⭐ +10 STARS EARNED! ⭐';
+
+            // Play passing race car engine VHOOOOOM audio effect!
+            playVroomSound();
+
+            // Trigger mobile phone haptic vibration engine rumble!
+            triggerCarVibration();
+
+            overlay.classList.add('active');
+
+            // 3-SECOND SLOW CAR ZOOM & SCREEN-COVERING EXHAUST SMOKE
+            setTimeout(() => {
+                overlay.classList.remove('active');
+                if (trackCar) trackCar.classList.remove('exhaust-boost');
+                if (callback) callback();
+            }, 3000);
+        }
+
+        function speakCurrentPrompt() {
+            if (currentTopicObj.type === 'speller') {
+                const item = currentTopicObj.words[currentQuestionIdx];
+                speak(item.word);
+            } else {
+                const promptText = document.getElementById('prompt-text').innerText;
+                speak(promptText);
+            }
+        }
+
+        function giveHint() {
+            if (currentTopicObj.type === 'speller') {
+                const target = currentTopicObj.words[currentQuestionIdx].word;
+                speak(`The word starts with letter ${target[0].toUpperCase()}`);
+            }
+        }
+
+        function renderQuestion() {
+            const topic = currentTopicObj;
+            const total = topic.type === 'speller' ? topic.words.length : topic.questions.length;
+            
+            document.getElementById('game-score').innerText = `${currentScore}/${total}`;
+            document.getElementById('game-streak').innerText = currentStreak;
+            document.getElementById('game-stars').innerText = totalStars;
+
+            const carPercent = Math.min(78, (currentQuestionIdx / total) * 78);
+            document.getElementById('race-car').style.left = carPercent + '%';
+            document.getElementById('racetrack-exhaust-trail').style.width = (carPercent > 0 ? (carPercent + 4) : 0) + '%';
+
+            if (currentQuestionIdx >= total) {
+                playTone('correct');
+                speak("Awesome! You completed this topic!");
+                totalStars += 20;
+                localStorage.setItem('atharv_mobile_stars', totalStars);
+                document.getElementById('stat-stars').innerText = totalStars;
+                
+                triggerCarCelebration("🏆 TOPIC MASTERED! 🏆", "🎉 +20 BONUS STARS EARNED!", () => {
+                    showView('view-topics');
+                });
+                return;
+            }
+
+            const promptImg = document.getElementById('prompt-img');
+            const promptText = document.getElementById('prompt-text');
+            const promptSub = document.getElementById('prompt-sub');
+            const slotsContainer = document.getElementById('slots-container');
+            const gravityStage = document.getElementById('gravity-stage');
+            const mixerStage = document.getElementById('mixer-stage');
+            const keyboardGrid = document.getElementById('keyboard-grid');
+            const quizGrid = document.getElementById('quiz-grid');
+
+            const keyboardActions = document.getElementById('keyboard-actions');
+
+            slotsContainer.style.display = 'none';
+            gravityStage.style.display = 'none';
+            mixerStage.style.display = 'none';
+            keyboardGrid.style.display = 'none';
+            keyboardActions.style.display = 'none';
+            quizGrid.style.display = 'none';
+
+            if (topic.type === 'speller') {
+                const item = topic.words[currentQuestionIdx];
+                promptImg.innerText = item.img;
+                promptText.innerText = item.hint;
+                promptSub.innerText = `${item.word.length} LETTERS · ${currentQuestionIdx + 1} OF ${total}`;
+                
+                // Speak out just the target word
+                speak(item.word);
+
+                slotsContainer.style.display = 'flex';
+                slotsContainer.innerHTML = '';
+                filledLetters = [];
+
+                for (let i = 0; i < item.word.length; i++) {
+                    const slot = document.createElement('div');
+                    slot.className = 'slot-box';
+                    slot.id = `slot-${i}`;
+                    slot.innerText = '';
+                    slotsContainer.appendChild(slot);
+                }
+
+                keyboardGrid.style.display = 'grid';
+                keyboardGrid.innerHTML = '';
+                keyboardActions.style.display = 'flex';
+                
+                const alphabet = "abcdefghijklmnopqrstuvwxyz";
+                let keys = item.word.split('');
+                while (keys.length < 10) {
+                    const randomChar = alphabet[Math.floor(Math.random() * alphabet.length)];
+                    if (!keys.includes(randomChar)) keys.push(randomChar);
+                }
+                keys.sort(() => Math.random() - 0.5);
+
+                keys.forEach(k => {
+                    const btn = document.createElement('button');
+                    btn.className = 'key-btn';
+                    btn.innerText = k;
+                    btn.onclick = () => typeLetter(k, item.word);
+                    keyboardGrid.appendChild(btn);
+                });
+
+            } else if (topic.type === 'quiz' || topic.type === 'gravity' || topic.type === 'mixer') {
+                const q = topic.questions[currentQuestionIdx];
+                promptImg.innerText = "❓";
+                promptText.innerText = q.text;
+                promptSub.innerText = `QUESTION ${currentQuestionIdx + 1} OF ${total}`;
+
+                speak(q.text);
+
+                if (topic.type === 'gravity') {
+                    gravityStage.style.display = 'block';
+                    document.getElementById('falling-item').style.top = '20px';
+                }
+
+                quizGrid.style.display = 'grid';
+                quizGrid.innerHTML = '';
+
+                q.options.forEach(opt => {
+                    const card = document.createElement('div');
+                    card.className = 'quiz-opt-card';
+                    card.innerHTML = `<div class="quiz-opt-text">${opt.t}</div>`;
+                    card.onclick = () => {
+                        if (opt.c) {
+                            playTone('correct');
+                            speak("Correct!");
+                            currentScore++;
+                            currentStreak++;
+                            totalStars += 10;
+                            localStorage.setItem('atharv_mobile_stars', totalStars);
+                            currentQuestionIdx++;
+                            
+                            triggerCarCelebration("🔥 TURBO BOOST! CORRECT! 🏁", "⭐ +10 STARS EARNED! ⭐", () => {
+                                renderQuestion();
+                            });
+                        } else {
+                            playTone('wrong');
+                            speak("Try again!");
+                            currentStreak = 0;
+                            document.getElementById('game-streak').innerText = currentStreak;
+                        }
+                    };
+                    quizGrid.appendChild(card);
+                });
+            }
+        }
+
+        function typeLetter(letter, targetWord) {
+            if (filledLetters.length < targetWord.length) {
+                filledLetters.push(letter);
+                speak(letter);
+                const slotIndex = filledLetters.length - 1;
+                const slot = document.getElementById(`slot-${slotIndex}`);
+                slot.innerText = letter;
+                slot.classList.add('filled');
+
+                if (filledLetters.length === targetWord.length) {
+                    const spelled = filledLetters.join('');
+                    if (spelled === targetWord) {
+                        // 1-Second Delay to hear last letter & inspect completed word before VHOOOOOM!
+                        setTimeout(() => {
+                            playTone('correct');
+                            speak(targetWord);
+                            currentScore++;
+                            currentStreak++;
+                            totalStars += 10;
+                            localStorage.setItem('atharv_mobile_stars', totalStars);
+                            currentQuestionIdx++;
+
+                            triggerCarCelebration(`🔥 TURBO ${targetWord.toUpperCase()}! 🏁`, `⭐ +10 STARS EARNED! ⭐`, () => {
+                                renderQuestion();
+                            });
+                        }, 1000);
+                    } else {
+                        setTimeout(() => {
+                            playTone('wrong');
+                            speak("Try again!");
+                            currentStreak = 0;
+                            clearLetters();
+                        }, 1200);
+                    }
+                }
+            }
+        }
+
+        function deleteLetter() {
+            if (filledLetters.length > 0) {
+                const slotIndex = filledLetters.length - 1;
+                filledLetters.pop();
+                const slot = document.getElementById(`slot-${slotIndex}`);
+                slot.innerText = '';
+                slot.classList.remove('filled');
+            }
+        }
+
+        function clearLetters() {
+            filledLetters = [];
+            document.querySelectorAll('.slot-box').forEach(s => {
+                s.innerText = '';
+                s.classList.remove('filled');
+            });
+        }
+    </script>
+</body>
+</html>

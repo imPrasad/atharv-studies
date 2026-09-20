@@ -1,0 +1,407 @@
+<div class="row m-0 w-100">
+    <div class="selectsub">
+        <label class="form-group has-float-label">
+            <select required class="form-control" style="border-radius: 20px;" onchange="if ($('#btnfilters').val() == 'curriculum') { $('#currbtn-' + $(this).val()).click();} else { $('#subid-' + $(this).val()).click();}; ">
+                <option value="all">All Subject</option>
+                <option value="1">English
+                        </option>
+                <option value="4">Maths
+                        </option>
+                <option value="52">Theme
+                        </option>
+                <option value="53">Sports
+                        </option>
+                <option value="72">Yoga
+                        </option>
+                <option value="38">STREAM
+                        </option>
+                <option value="39">Horticulture
+                        </option>
+                <option value="42">Library
+                        </option>
+                <option value="63">READING PROGRAM
+                        </option>
+                <option value="10">Dance
+                        </option>
+                <option value="11">Music
+                        </option>
+                <option value="12">Visual Arts
+                        </option>
+                <option value="56">Children &#x27;s Council 
+                        </option>
+                <option value="87">Circle Time
+                        </option>
+            </select>
+            <span>Subject</span>
+        </label>
+        <a id="subid-all" data-ajax="true" data-ajax-failure="onAjaxFailure" data-ajax-loading="#loader" data-ajax-update="#Subjectdiv" data-ajax-mode="replace" onclick="$('#accordiondvstdReports').attr('style','display:none');" href="/TimeTable/GetStudentWorkbook?QHash=CfDJ8I0yd3aLhstOhR6RCtfJnsPTuVY3TFRLiWwk0S3XlydvKw_vhww7L_IRgoVO4EylnCqvr_DHPKD-DA0FZklGhycLkWSuHqj-FgJ0Ct_KuBWTENTGHfbKozlIwy9E71p-LzRqw82RzJXaGtdFRR3dCNkZ2YoQhiydVT0a20dwa9g3W3Mqhmhn3RMJiLbatNVBoPwNfA--l5aSogMIRvIvVBsQw2DONjxyCAZvEbw7gvOH&amp;DMLFlag=search"></a>
+        <a id="subid-1" data-ajax="true" data-ajax-failure="onAjaxFailure" data-ajax-loading="#loader" data-ajax-update="#Subjectdiv" data-ajax-mode="replace" onclick="$('#accordiondvstdReports').attr('style','display:none');" href="/TimeTable/GetStudentWorkbook?QHash=CfDJ8I0yd3aLhstOhR6RCtfJnsN9g0ZkJmUOZb5wg5t-Ver04vfgBI8G8WZlz6TlQvbIvXjK9hHkcgMpwCFw0ueT5Ra6_Od5WYEl3zjDuMYJLTRaf3Bht0SKQRjAlbUEnyl6tHtqqGOGTUXtGvqxGSVpRhvLEHvBCyVN43lmby7iLV1mKrebr62k5_eHJTlXEf6rszeonLSYSl1sRSzEVXAhHLQ&amp;DMLFlag=search"></a>
+        <a id="subid-4" data-ajax="true" data-ajax-failure="onAjaxFailure" data-ajax-loading="#loader" data-ajax-update="#Subjectdiv" data-ajax-mode="replace" onclick="$('#accordiondvstdReports').attr('style','display:none');" href="/TimeTable/GetStudentWorkbook?QHash=CfDJ8I0yd3aLhstOhR6RCtfJnsMCARpiXLrZxhS9MRMTU9BzzJ2Pq4lV-LlNoEo-QangvCWFC1XW3JKLOvr0iTpTGg9VRlhmvxfx3h29qnuDBBJR-g56PfudZPdCX65OT7olbRliGKuyxgQQScB-nIWnrx6jbgKHlJqNTXf5Lq8DmJpEpdmClIf5Enq4GiFpstHRdwJQ6gU8LyyT9mm800uYgJg&amp;DMLFlag=search"></a>
+        <a id="subid-52" data-ajax="true" data-ajax-failure="onAjaxFailure" data-ajax-loading="#loader" data-ajax-update="#Subjectdiv" data-ajax-mode="replace" onclick="$('#accordiondvstdReports').attr('style','display:none');" href="/TimeTable/GetStudentWorkbook?QHash=CfDJ8I0yd3aLhstOhR6RCtfJnsPyfDYbbpnFwTo3fpuLFVdpXcgMtBKW0UZURMOQ2y4MzWNYl6qyKjNwGYe4MKaYXqsmyVj2qUEME3PpMSqvV5vDvpsYSrWbBw-xtM9-3pod4qRIqdqDHDRLQHehAdfulmUgGtFFVDXoSletOZe6YRgp3IxbYWyn5qoPkggvZxEQbMqK77ju-GwIT_5-qqroIWPptdSV90alQDt6Mu8QQzDX&amp;DMLFlag=search"></a>
+        <a id="subid-53" data-ajax="true" data-ajax-failure="onAjaxFailure" data-ajax-loading="#loader" data-ajax-update="#Subjectdiv" data-ajax-mode="replace" onclick="$('#accordiondvstdReports').attr('style','display:none');" href="/TimeTable/GetStudentWorkbook?QHash=CfDJ8I0yd3aLhstOhR6RCtfJnsPVcjTnxxkJx6YrkhauVnM36hUj4t0ONdznabC2Th2GvsxiYG40AXKDxbFOWLUEXI885c5EEBSU0WrFwKlG093EWWnS16a5zwLTeBLPAxGrTU3PdCHPZPouzHA2CjFya_mz-5gkD8gHfhbJEUIFTYQfDQMlOw5PkIYLSCuReYMQK53hFMrItryiDSQzcx8SlxQfEeozKX_aYvLXS646lMG8&amp;DMLFlag=search"></a>
+        <a id="subid-72" data-ajax="true" data-ajax-failure="onAjaxFailure" data-ajax-loading="#loader" data-ajax-update="#Subjectdiv" data-ajax-mode="replace" onclick="$('#accordiondvstdReports').attr('style','display:none');" href="/TimeTable/GetStudentWorkbook?QHash=CfDJ8I0yd3aLhstOhR6RCtfJnsPzEqJGiV9euoDmGzbdelKNqMOA9huSRTzs_SyoP0VOMKxquIag54zi4COmisx2HiYFSxOYoITZ_cz1UPXGBvQBVs31InpQThwp1CxnyaF78hk_7zR4IfYq3xXlZ9FudRn7QE_wFEzFuq82p7eRZByUKx4yHWnO3Ul1hGWKS65JdOhS29GzMqYnrq-0U4p4eFcIrPtaTKj9gdxtk43Jsx8q&amp;DMLFlag=search"></a>
+        <a id="subid-38" data-ajax="true" data-ajax-failure="onAjaxFailure" data-ajax-loading="#loader" data-ajax-update="#Subjectdiv" data-ajax-mode="replace" onclick="$('#accordiondvstdReports').attr('style','display:none');" href="/TimeTable/GetStudentWorkbook?QHash=CfDJ8I0yd3aLhstOhR6RCtfJnsPHXBPIPouZPyohmusJi0bjb4l3BLArj7GdtsKfcy-p_lsM8oNXXYIF9mhGvTNLOokeW0mhrOBQYz9yItgZbdptzRqwGl75ZMIcpgtVOqSQaP5jTqUl6NtnlFySieJ3REafSS36h8N5--cJahSfv2W6J8ejKvlYkD8tETUL_frWdZO0X7OIVOZxMPTCJzMKXDvt1-E_oxU-2QAmHg0CGi2O&amp;DMLFlag=search"></a>
+        <a id="subid-39" data-ajax="true" data-ajax-failure="onAjaxFailure" data-ajax-loading="#loader" data-ajax-update="#Subjectdiv" data-ajax-mode="replace" onclick="$('#accordiondvstdReports').attr('style','display:none');" href="/TimeTable/GetStudentWorkbook?QHash=CfDJ8I0yd3aLhstOhR6RCtfJnsOpBdluV5Faozjuoh5eNUCC-JaM_IIt1g0HRiRzCSzIx3Wsm8pIblmt-u_IzhiOYgw5aS0EjwFusS811ysQjcJIltv23TB0SasunngzRB0uTcoMqMZmOn1cClVRg69GWMFpNOShvXgvr9pxjEWg0n1faxno7vJO-fr38aCN4kg5ijadbjROvtgnfZ_ScgaLY7lx6seQtNV36y4vIwt5GFXW&amp;DMLFlag=search"></a>
+        <a id="subid-42" data-ajax="true" data-ajax-failure="onAjaxFailure" data-ajax-loading="#loader" data-ajax-update="#Subjectdiv" data-ajax-mode="replace" onclick="$('#accordiondvstdReports').attr('style','display:none');" href="/TimeTable/GetStudentWorkbook?QHash=CfDJ8I0yd3aLhstOhR6RCtfJnsPToZm_-Dk69wVoqCCCkYcTiBtSq9kwL3LV35_91UPbuDZQHOp-W2XzYVf_YWsbm382uXIRL6Pdv4-e6U8DZRLogSVcSs4G8Vs8p17-g_IxBOVvsG41X_CoTbhW404QHz54WLOW8xSUDahgaa5KEKHBIGSb1-TcWvAVzPjIN9l9JG_cTyl_OuINFsesVKTa0y4l_Iuu1dx5o9nZ_LSUVy-s&amp;DMLFlag=search"></a>
+        <a id="subid-63" data-ajax="true" data-ajax-failure="onAjaxFailure" data-ajax-loading="#loader" data-ajax-update="#Subjectdiv" data-ajax-mode="replace" onclick="$('#accordiondvstdReports').attr('style','display:none');" href="/TimeTable/GetStudentWorkbook?QHash=CfDJ8I0yd3aLhstOhR6RCtfJnsP45-_4MYUx3uo7MURQ0RTfNHpHuSAHgzR-xVkQQ2DKaj_MeHkR1jJ7R_WdWCYFM5K1o1g4huduhUYo0UO9Iutdm9voB_XRurDV6yYEeTNhEPhR8ZHKCRX1Iwddnl_M7X_DjjlWKg8qacg1o9uUmNK6KMLNXTin0uzQ9APm5h-CDCT2xLyyipzAZja9G1G6QUYL97A4kS-Iyr-n9CIfDFAm&amp;DMLFlag=search"></a>
+        <a id="subid-10" data-ajax="true" data-ajax-failure="onAjaxFailure" data-ajax-loading="#loader" data-ajax-update="#Subjectdiv" data-ajax-mode="replace" onclick="$('#accordiondvstdReports').attr('style','display:none');" href="/TimeTable/GetStudentWorkbook?QHash=CfDJ8I0yd3aLhstOhR6RCtfJnsP2FdHUngOaz8pdyQJ2LhbVfn6bL3DihnHIbOx1VOijr87IYpknjOgXYAcLjT2pTsz_-6ghv6uvvEoK_IKLKkaFPk9wHbED6q4vchyDfUGj7Sml7h0lrwNVAU4WH54FuBoHf6OpZHqsYV-enGUbY5LHsN94kTfbaLEnmJ8tJv4T6-J_ftZHuqP2IaC1vx3AePYbITBjY2ElV3AQ6cQr3PVa&amp;DMLFlag=search"></a>
+        <a id="subid-11" data-ajax="true" data-ajax-failure="onAjaxFailure" data-ajax-loading="#loader" data-ajax-update="#Subjectdiv" data-ajax-mode="replace" onclick="$('#accordiondvstdReports').attr('style','display:none');" href="/TimeTable/GetStudentWorkbook?QHash=CfDJ8I0yd3aLhstOhR6RCtfJnsMtkx2LNZHsPevYq6lIcE9u8NQ5LV_4OqJE9cQBXWUcUiMR4LIPvgI5JfhuJnZSNl-T50MiRCAbtn4fiZOguS6Fv-f8SzSXqulOlukn3v6mdIguSynVipUc9B81kb5GGdowNg3nZqxcCeenJ8kttMGFrRua72phCh15_79j_k2FTpQqVeMwqMxX_SbcnKnWbhTcHU90MjgWCi0u1H-bali4&amp;DMLFlag=search"></a>
+        <a id="subid-12" data-ajax="true" data-ajax-failure="onAjaxFailure" data-ajax-loading="#loader" data-ajax-update="#Subjectdiv" data-ajax-mode="replace" onclick="$('#accordiondvstdReports').attr('style','display:none');" href="/TimeTable/GetStudentWorkbook?QHash=CfDJ8I0yd3aLhstOhR6RCtfJnsOBQPOSXsDAwZOMiP-0yrNGCaj2sb6og8gFww3Vu7_sR7j10YLWilBd-TnTnTih5cUI-y8egpX1zL1aNjLrq2zMOLQ36AML1kJEUO5J_Bcu8ATBnk2tb5pQwlo0ii8ASAwzwnoRQCr6s9HNrwLeb3smYJvyrkRya_6VX81diihRb4hs6bFpiUxLzhc3VCIFATPviD_v-vlKmIz3KC5GEH-J&amp;DMLFlag=search"></a>
+        <a id="subid-56" data-ajax="true" data-ajax-failure="onAjaxFailure" data-ajax-loading="#loader" data-ajax-update="#Subjectdiv" data-ajax-mode="replace" onclick="$('#accordiondvstdReports').attr('style','display:none');" href="/TimeTable/GetStudentWorkbook?QHash=CfDJ8I0yd3aLhstOhR6RCtfJnsMoHZuVa75JFkIyeb-ThcEsIEJVjuosLUcl_a4R02x3DZIxTGEEjzpvOPpkVXdcsrSljSW01LR4-1Mt-cayPP2PtaZnqnTBxhbnY9GS9Cqn27XrOogcR8ZX30oA1gN01Sox583wCjgkyAO7iqixWrKbNq9QAJQu4NimoUltT_o6lYmuQWQoDp35phPwkGE3UdhFT8d82MgyefA94wTjzNRv&amp;DMLFlag=search"></a>
+        <a id="subid-87" data-ajax="true" data-ajax-failure="onAjaxFailure" data-ajax-loading="#loader" data-ajax-update="#Subjectdiv" data-ajax-mode="replace" onclick="$('#accordiondvstdReports').attr('style','display:none');" href="/TimeTable/GetStudentWorkbook?QHash=CfDJ8I0yd3aLhstOhR6RCtfJnsPwwRAGVjMHKg6ydfzAUAiEaGuXTxwqHLnlms8cEmolau1NcMqDnA4CLpA8XQ6CGGFODdHMggAPGTP9QvpdZR9I2pU5y4ScLbhsrwdpNHlUbTIBSZJIAHp7nRpxDnSIY0VzIP212Dt8qaPiZvvG34gLzy9xBQLvikgCkimJwnHFg9ZNb067j2ocNLsEZ4La-bY3Rr05CZNuWzoYu-VNdFw3&amp;DMLFlag=search"></a>
+        <input type="hidden" id="btnfilters"/>
+    </div>
+    <div class="logcurbtndiv"></div>
+</div>
+<div id="Subjectdiv">
+    <a id="logbtn" data-ajax="true" data-ajax-failure="onAjaxFailure" data-ajax-loading="#loader" data-ajax-update="#SubjectWiseLogBook" data-ajax-mode="replace" onclick="$('#btnfilters').val('logbook');$('#accordiondvstdReports').attr('style','display:none');" href="/TimeTable/GetSubjectUnitReflectionByStudentHash?QHash=CfDJ8I0yd3aLhstOhR6RCtfJnsNfybgLxyl5HdmApaMw7FxmNBr7U0RZa0-o9RDEATuAdu8ObuWIALbdh2tZIiPghhUt0ex64FkvdUpWBFTU_shK9Ttb_ZI8-kTXrc7WPz8MgpdY0tpUoKJJnWGtWE3G0N2fOnA2y3p_jMCOlVhmp0UTkfYgOg3LYZiNxPzVaC0KJ-rrq2QiZGKjnxV9vFFT6zzQ9TuGzBAVAbdovC-Qg2EupN3yQMu3EMlLp-DvMLVVVCZLC6WS_OylairoGTc2MIpw5bz-BqRQ4gzSARk4eycVwKB_uGJ5_ajrGwdkp74ssJ_VjFTp_x84kuQHTbjjyyoCC8mVgBzO9uFM3A93aKcM"></a>
+    <a id="currbtn" data-ajax="true" data-ajax-failure="onAjaxFailure" data-ajax-loading="#loader" data-ajax-update="#UnitReflectionList" data-ajax-mode="replace" onclick="$('#btnfilters').val('curriculum');$('#accordiondvstdReports').attr('style','display:none');" href="/Curriculum/GetChaptersByClassHash?QHash=CfDJ8I0yd3aLhstOhR6RCtfJnsNfybgLxyl5HdmApaMw7FxmNBr7U0RZa0-o9RDEATuAdu8ObuWIALbdh2tZIiPghhUt0ex64FkvdUpWBFTU_shK9Ttb_ZI8-kTXrc7WPz8MgpdY0tpUoKJJnWGtWE3G0N2fOnA2y3p_jMCOlVhmp0UTkfYgOg3LYZiNxPzVaC0KJ-rrq2QiZGKjnxV9vFFT6zzQ9TuGzBAVAbdovC-Qg2EupN3yQMu3EMlLp-DvMLVVVCZLC6WS_OylairoGTc2MIpw5bz-BqRQ4gzSARk4eycVwKB_uGJ5_ajrGwdkp74ssJ_VjFTp_x84kuQHTbjjyyoCC8mVgBzO9uFM3A93aKcM"></a>
+    <div id="UnitReflectionList" class="row m-0 w-100">
+        <div id="subwiseassaccordion" class="w-100">
+            <div id="UnitReflection_282442" class="row w-100 m-0 mb-2">
+                <div class="d-block w-100">
+                    <div class="chap_drop_clas  position-relative" style="background-color: #ffca0899; border-radius: 10px;">
+                        <button class="btn btn-link truncate pl-2 text-left font-weight-bold" style="color: #231f20;">10-Jul-2026
+                        </button>
+                    </div>
+                    <br>
+                    <div class="mt-2 mb-2 announcement-border"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Subject : English </span>
+                    </div>
+                    <div class="mt-2 mb-2 announcement-border"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold" style="color:blue;">Period : Period 1 </span>
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Chapter:  Introduction of qu words</span>
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Topic :</span>
+                        Introduction of qu words 
+                    </div>
+                    <div class="row m-0 w-100"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">ClassWork :</span>
+                        The teacher introduced &#x2018;qu &#x2019;words through an audio-visual aid. Learners were explained that the letter &#x2018;q &#x2019;is usually followed by &#x2018;u &#x2019;to form the &#x201C;qu &#x201D;sound, as in queen, quick, and quiet.&#xD;&#xA;Activity:&#xD;&#xA;Learners explored the &#x201C;Queen &#x2019;s Treasure &#x201D;activity where they identified objects and recognised whether each picture began with the &#x2018;qu &#x2019;sound.&#xD;&#xA;Work book pg no 14 .&#xD;&#xA;
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">HomeWork : </span>
+                        -
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Remark : </span>
+                        -
+                    </div>
+                </div>
+            </div>
+            <div id="UnitReflection_282460" class="row w-100 m-0 mb-2">
+                <div class="d-block w-100">
+                    <div class="mt-2 mb-2 announcement-border"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Subject : Theme </span>
+                    </div>
+                    <div class="mt-2 mb-2 announcement-border"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold" style="color:blue;">Period : Period 2 </span>
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Chapter:  Quarter 1- Myself</span>
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Topic :</span>
+                        Introduction of good touch, bad touch  
+                    </div>
+                    <div class="row m-0 w-100"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">ClassWork :</span>
+                        Activity: Role play &#xD;&#xA;The teacher introduced the concept of Good Touch and Bad Touch through a simple role play using a teddy bear/puppet. Learners were explained that safe touches make us feel happy, comfortable, and cared for, while unsafe touches make us feel uncomfortable, scared, or confused. The teacher reinforced that their body belongs to them and encouraged them to remember the safety rule: Say &quot;No &quot;, Go Away, and Tell a Trusted adult.
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">HomeWork : </span>
+                        -
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Remark : </span>
+                        -
+                    </div>
+                </div>
+            </div>
+            <div id="UnitReflection_282464" class="row w-100 m-0 mb-2">
+                <div class="d-block w-100">
+                    <div class="mt-2 mb-2 announcement-border"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Subject : Maths </span>
+                    </div>
+                    <div class="mt-2 mb-2 announcement-border"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold" style="color:blue;">Period : Period 4 </span>
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Chapter:  Introduction of Orange colour</span>
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Topic :</span>
+                        Recap of colours red and yellow  
+                    </div>
+                    <div class="row m-0 w-100"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">ClassWork :</span>
+                        The learners revised the colours through a hands-on activity in their , where they sorted pictures of red and yellow colour.
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">HomeWork : </span>
+                        -
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Remark : </span>
+                        -
+                    </div>
+                </div>
+            </div>
+            <div id="UnitReflection_281282" class="row w-100 m-0 mb-2">
+                <div class="d-block w-100">
+                    <div class="chap_drop_clas  position-relative" style="background-color: #ffca0899; border-radius: 10px;">
+                        <button class="btn btn-link truncate pl-2 text-left font-weight-bold" style="color: #231f20;">09-Jul-2026
+                        </button>
+                    </div>
+                    <br>
+                    <div class="mt-2 mb-2 announcement-border"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Subject : Theme </span>
+                    </div>
+                    <div class="mt-2 mb-2 announcement-border"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold" style="color:blue;">Period : Period 2 </span>
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Chapter:  Quarter 1- Myself</span>
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Topic :</span>
+                        Recap of daily Routine  
+                    </div>
+                    <div class="row m-0 w-100"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">ClassWork :</span>
+                        &#xD;&#xA;The teacher recapped the daily routine with the learners using flashcards. Learners identified and named different daily activities such as waking up, brushing their teeth, bathing, having breakfast, going to school, and sleeping. Through interactive questioning and discussion, the teacher encouraged learners to recall the correct order of these activities and reinforced the importance of following a daily routine.&#xD;&#xA;Activity:&#xD;&#xA;Learners observed the daily routine flashcards and arranged them in the &#xD;&#xA;
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">HomeWork : </span>
+                        -
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Remark : </span>
+                        -
+                    </div>
+                </div>
+            </div>
+            <div id="UnitReflection_281283" class="row w-100 m-0 mb-2">
+                <div class="d-block w-100">
+                    <div class="mt-2 mb-2 announcement-border"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Subject : English </span>
+                    </div>
+                    <div class="mt-2 mb-2 announcement-border"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold" style="color:blue;">Period : Period 3 </span>
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Chapter:  Sight Words</span>
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Topic :</span>
+                        Recap of sight words  
+                    </div>
+                    <div class="row m-0 w-100"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">ClassWork :</span>
+                        The teacher revised sight words such as  saw, put, could, should, would, and right through class discussion.&#xD;&#xA;Activity:&#xD;&#xA;Learners wrote the sight words in their notebooks.&#xD;&#xA;
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">HomeWork : </span>
+                        -
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Remark : </span>
+                        -
+                    </div>
+                </div>
+            </div>
+            <div id="UnitReflection_281284" class="row w-100 m-0 mb-2">
+                <div class="d-block w-100">
+                    <div class="mt-2 mb-2 announcement-border"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Subject : Maths </span>
+                    </div>
+                    <div class="mt-2 mb-2 announcement-border"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold" style="color:blue;">Period : Period 4 </span>
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Chapter:  Introduction of Numbers 1 to 40</span>
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Topic :</span>
+                        Recap of Numbers 1 &#x2013;40 and number names 1-10 
+                    </div>
+                    <div class="row m-0 w-100"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">ClassWork :</span>
+                        &#xD;&#xA;The teacher recapped numbers 1-40  and number names 1-10 via wrote counting and writing it on the white board.&#xD;&#xA;Activity: Learners were given loose sheets to write numbers 1-40 and number names 1- 10.&#xD;&#xA;
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">HomeWork : </span>
+                        -
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Remark : </span>
+                        -
+                    </div>
+                </div>
+            </div>
+            <div id="UnitReflection_280097" class="row w-100 m-0 mb-2">
+                <div class="d-block w-100">
+                    <div class="chap_drop_clas  position-relative" style="background-color: #ffca0899; border-radius: 10px;">
+                        <button class="btn btn-link truncate pl-2 text-left font-weight-bold" style="color: #231f20;">08-Jul-2026
+                        </button>
+                    </div>
+                    <br>
+                    <div class="mt-2 mb-2 announcement-border"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Subject : English </span>
+                    </div>
+                    <div class="mt-2 mb-2 announcement-border"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold" style="color:blue;">Period : Period 4 </span>
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Chapter:  Sight Words</span>
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Topic :</span>
+                        Introduction of Sight Words &amp;Dictation of long vowel e words  
+                    </div>
+                    <div class="row m-0 w-100"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">ClassWork :</span>
+                        Introduction to Sight Words:&#xD;&#xA;The teacher introduced sight words such as like, saw, put, could, should, would, and right through a whiteboard session. Learners were encouraged to recognise and read the words by sight without sounding them out.&#xD;&#xA;Activity:&#xD;&#xA;Learners participated in a hands-on activity where they used paintbrushes to wipe off sand and reveal hidden sight words.&#xD;&#xA;&#xD;&#xA;Dictation &#x2013;Long Vowel &#x2018;e &#x2019;:&#xD;&#xA;A dictation activity on long vowel &#x2018;e &#x2019;words was conducted. The teacher dictated words such as peel, meet, feel, tree, see, bee, seat, beat, beak, leaf, meal, and weak. Learners listened carefully and wrote the words neatly in their notebooks.&#xD;&#xA;
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">HomeWork : </span>
+                        -
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Remark : </span>
+                        -
+                    </div>
+                </div>
+            </div>
+            <div id="UnitReflection_280105" class="row w-100 m-0 mb-2">
+                <div class="d-block w-100">
+                    <div class="mt-2 mb-2 announcement-border"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Subject : Maths </span>
+                    </div>
+                    <div class="mt-2 mb-2 announcement-border"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold" style="color:blue;">Period : Period 5 </span>
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Chapter:  Before after between numbers 1-20 </span>
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Topic :</span>
+                        Recap of Before, After, and Between Numbers:  
+                    </div>
+                    <div class="row m-0 w-100"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">ClassWork :</span>
+                        The teacher revised the concept of before, after, and between numbers up to 20. This was introduced using an audio-visual aid to help learners understand the concept clearly. After the explanation, learners participated in an activity where they observed given numbers, analysed them, and identified the correct numbers that come before, after, and between respectively.&#xD;&#xA;&#xD;&#xA;Learners completed worksheet (Pg. No. 18  and 22), where they wrote between numbers and backward missing numbers with the guidance of the teacher.&#xD;&#xA;&#xD;&#xA;Activity:&#xD;&#xA;Learners participated in an interactive before and after numbers activity using a flap chart. They identified the numbers that come before and after a given number, demonstrating their understanding of number sequencing.&#xD;&#xA;&#xD;&#xA;
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">HomeWork : </span>
+                        -
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Remark : </span>
+                        -
+                    </div>
+                </div>
+            </div>
+            <div id="UnitReflection_280164" class="row w-100 m-0 mb-2">
+                <div class="d-block w-100">
+                    <div class="mt-2 mb-2 announcement-border"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Subject : STREAM </span>
+                    </div>
+                    <div class="mt-2 mb-2 announcement-border"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold" style="color:blue;">Period : Period 3 </span>
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Chapter:  Light</span>
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Topic :</span>
+                        Light and Shadow 
+                    </div>
+                    <div class="row m-0 w-100"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">ClassWork :</span>
+                        Learners explored the exciting concept of how shadows are formed through a fun, hands-on activity. Using a torch and different everyday objects, they discovered that a shadow is created when an opaque object blocks the path of light. They experimented by moving objects closer to and farther from the light source and observed how the size and shape of the shadow changed.&#xD;&#xA;Through this interactive investigation, learners developed their observation, prediction, and scientific thinking skills while gaining a better understanding of the relationship between light, objects, and shadows.
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">HomeWork : </span>
+                        NA
+                    </div>
+                </div>
+            </div>
+            <div id="UnitReflection_280165" class="row w-100 m-0 mb-2">
+                <div class="d-block w-100">
+                    <div class="mt-1">
+                        <span class="font-weight-bold" style="color:blue;">Period : Period 2 </span>
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Chapter:  Light</span>
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">Topic :</span>
+                        Light and Shadow 
+                    </div>
+                    <div class="row m-0 w-100"></div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">ClassWork :</span>
+                        Learners explored the exciting concept of how shadows are formed through a fun, hands-on activity. Using a torch and different everyday objects, they discovered that a shadow is created when an opaque object blocks the path of light. They experimented by moving objects closer to and farther from the light source and observed how the size and shape of the shadow changed.&#xD;&#xA;Through this interactive investigation, learners developed their observation, prediction, and scientific thinking skills while gaining a better understanding of the relationship between light, objects, and shadows.
+                    </div>
+                    <div class="mt-1">
+                        <span class="font-weight-bold">HomeWork : </span>
+                        NA
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="dvUnitReflectionLoadMore" class="showmorediv">
+            <a id="btnUnitReflectionLoadMore" onclick="$('#dvUnitReflectionLoadMore').remove();" href="/TimeTable/GetStudentWorkbook?QHash=CfDJ8I0yd3aLhstOhR6RCtfJnsNfybgLxyl5HdmApaMw7FxmNBr7U0RZa0-o9RDEATuAdu8ObuWIALbdh2tZIiPghhUt0ex64FkvdUpWBFTU_shK9Ttb_ZI8-kTXrc7WPz8MgpdY0tpUoKJJnWGtWE3G0N2fOnA2y3p_jMCOlVhmp0UTkfYgOg3LYZiNxPzVaC0KJ-rrq2QiZGKjnxV9vFFT6zzQ9TuGzBAVAbdovC-Qg2EupN3yQMu3EMlLp-DvMLVVVCZLC6WS_OylairoGTc2MIpw5bz-BqRQ4gzSARk4eycVwKB_uGJ5_ajrGwdkp74ssJ_VjFTp_x84kuQHTbjjyyoCC8mVgBzO9uFM3A93aKcM&amp;PageSize=10&amp;PageNumber=2&amp;DMLFlag=Search" data-ajax="true" data-ajax-complete="onAjaxcomplete" data-ajax-failure="onAjaxFailure" data-ajax-loading="#loader" data-ajax-update="#UnitReflectionList" data-ajax-mode="after">
+                <i class="iconsminds-down-1" style="font-size:35px;"></i>
+            </a>
+            <script>
+                $(window).scroll(function() {
+                    if ($(window).scrollTop() + $(window).height() == $(document).height()) {
+                        $("#btnUnitReflectionLoadMore").click();
+                    }
+                });
+            </script>
+        </div>
+    </div>
+</div>
+<script>
+    $('.subject-btn').on('click', function() {
+        $('.subject-btn').removeClass('subject-active-btn');
+        $(this).addClass('subject-active-btn');
+    });
+    $('.logcurr-btn').on('click', function() {
+        $('.logcurr-btn').removeClass('logcurr-active-btn');
+        $(this).addClass('logcurr-active-btn');
+    });
+</script>

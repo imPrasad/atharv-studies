@@ -1,0 +1,3402 @@
+        <div id="schoolAnnouncement_194418" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                7/4/2026 10:20:41 AM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p><span style="font-size: 13.8px;">Dear Parents,</span></p><p><span style="font-size: 13.8px;">Homework has been assigned in the Math notebook (Number Names) and the English notebook (Long "e" vowel words).</span></p><p><span style="font-size: 13.8px;">Kindly help your ward prepare the Long "e" vowel words, as we will be conducting a dictation on Monday.</span></p><p><span style="font-size: 13.8px;">Thank you for your support.</span></p><p><span style="font-size: 13.8px;">Warm regards,</span></p><p>Kashish Nariani&nbsp;</p><p>Kejal Bhanushali&nbsp;</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_194416" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                7/4/2026 10:03:56 AM
+                                <b> (<i class="iconsminds-tag-3"></i> Circular )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p style="font-size: 11.8px; width: 345px; -webkit-text-size-adjust: 100%; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;">Dear Parents,</span></p><p style="font-size: 11.8px; width: 345px; -webkit-text-size-adjust: 100%; text-align: initial !important;"><br></p><p style="font-size: 11.8px; width: 345px; -webkit-text-size-adjust: 100%; text-align: initial !important;">Please join us online for the positive parenting session we understand as it is raining outside.Feel free to join the link below .Few parents have come and welcome all.</p><p style="font-size: 11.8px; width: 345px; -webkit-text-size-adjust: 100%; text-align: initial !important;"><br></p><p style="font-size: 11.8px; width: 345px; -webkit-text-size-adjust: 100%; text-align: initial !important;">Link gor joining :-&nbsp;<span style="font-size: 11.8px; text-align: initial;">To join the meeting on Google Meet, click this link:&nbsp;</span></p><p style="font-size: 11.8px; width: 345px; -webkit-text-size-adjust: 100%; text-align: initial !important;"><br></p><p style="font-size: 11.8px; width: 345px; -webkit-text-size-adjust: 100%; text-align: initial !important;"><span style="font-size: 11.8px; text-align: initial;">&nbsp;</span><a href="https://meet.google.com/xdi-cwfe-bdj" target="_self">https://meet.google.com/xdi-cwfe-bdj</a><a href="https://meet.google.com/xdi-cwfe-bdj" style="background-color: rgb(255, 255, 255);"></a><br></p><p style="font-size: 11.8px; width: 345px; -webkit-text-size-adjust: 100%; text-align: initial !important;"><br></p><p style="font-size: 11.8px; width: 345px; -webkit-text-size-adjust: 100%; text-align: initial !important;">Or open Meet and enter this code: xdi-cwfe-bdj</p><p style="font-size: 11.8px; width: 345px; -webkit-text-size-adjust: 100%; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;"><br></span></p><p style="font-size: 11.8px; width: 345px; -webkit-text-size-adjust: 100%; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;"><br style="margin-bottom: 0px; width: 100%; font-size: 11.8px !important; text-align: initial !important;"></span></p><p style="font-size: 11.8px; width: 345px; -webkit-text-size-adjust: 100%; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;">Date: 4th July 2026</span></p><p style="font-size: 11.8px; width: 345px; -webkit-text-size-adjust: 100%; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;">Time: 10:15 am.</span></p><p style="font-size: 11.8px; width: 345px; -webkit-text-size-adjust: 100%; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;"><br style="margin-bottom: 0px; width: 100%; font-size: 11.8px !important; text-align: initial !important;"></span></p><p style="font-size: 11.8px; width: 345px; -webkit-text-size-adjust: 100%; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;">We encourage all parents to attend this informative session and look forward to your participation.</span></p><p style="font-size: 11.8px; width: 345px; -webkit-text-size-adjust: 100%; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;"><br style="margin-bottom: 0px; width: 100%; font-size: 11.8px !important; text-align: initial !important;"></span></p><p style="font-size: 11.8px; width: 345px; -webkit-text-size-adjust: 100%; text-align: initial !important;">Live session .</p><div style="margin-bottom: 0px; font-size: 11.8px; width: 345px; -webkit-text-size-adjust: 100%; text-align: initial !important;"><br></div><div style="margin-bottom: 0px; font-size: 11.8px; width: 345px; -webkit-text-size-adjust: 100%; text-align: initial !important;"><br style="margin-bottom: 0px; width: 100%; font-size: 11.8px !important; text-align: initial !important;"></div><div style="margin-bottom: 0px; font-size: 11.8px; width: 345px; -webkit-text-size-adjust: 100%; text-align: initial !important;">Warm Regards,</div><div style="margin-bottom: 0px; font-size: 11.8px; width: 345px; -webkit-text-size-adjust: 100%; text-align: initial !important;">KIS</div><div style="margin-bottom: 0px; font-size: 11.8px; width: 345px; -webkit-text-size-adjust: 100%; text-align: initial !important;"><br style="margin-bottom: 0px; width: 100%; font-size: 11.8px !important; text-align: initial !important;"></div>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_194331" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                7/3/2026 3:02:54 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p><span style="font-size: 13.8px;">Dear Parents,</span></p><p><span style="font-size: 13.8px;">Greetings!</span></p><p><span style="font-size: 13.8px;">We are excited to announce a Pyjama Party for our little learners on Tuesday, 7th July 2026.</span></p><p><span style="font-size: 13.8px;">We request you to send your child to school dressed in comfortable pyjamas on that day so they can enjoy the fun-filled activities planned for them.</span></p><p><span style="font-size: 13.8px;">Date: Tuesday, 7th July 2026</span></p><p><span style="font-size: 13.8px;">Event: Pyjama Party</span></p><p><span style="font-size: 13.8px;">Dress Code: Comfortable Pyjamas</span></p><p><span style="font-size: 13.8px;">We look forward to a joyful day filled with fun, laughter, and wonderful memories!</span></p><p><span style="font-size: 13.8px;"><br></span></p><p>Warm regards,</p><p>Kejal Bhanushali&nbsp;</p><p>Kashish Nariani&nbsp;</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_193321" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                7/1/2026 7:27:56 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p class="isSelectedEnd">Dear Parents,</p><p class="isSelectedEnd"><br></p><p class="isSelectedEnd">Please find attached below the <strong>July Month Calendar</strong>. Kindly go through the calendar and make a note of the important dates. Your support and cooperation in helping your child participate in the planned activities are greatly appreciated.</p><p class="isSelectedEnd"><br></p><p class="isSelectedEnd">Warm Regards,</p><p class="isSelectedEnd">KIS Team</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-193321" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-193321" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+                    <div id="mediadiv-83133" class="mr-2 mb-2" style="width:200px;height:200px;position:relative;display:inline-block;">
+
+                        <div id="aannouncement_Announcementfiles-193321">
+                                <a target="_blank" href="/appData/Aannouncement/01072026192756769-0.pdf" style="cursor:pointer;">
+                                    <img src="/Img/PDF Icon.png" style="width:100%;height:200px;" />
+                                </a>
+                        
+                    </div>
+                    </div>
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_193678" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/30/2026 11:15:39 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Circular )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p style="background-color: rgb(255, 255, 255); background-image: none !important; background-position: 0% 0% !important; background-size: auto !important; background-repeat: repeat !important; background-attachment: scroll !important; background-origin: padding-box !important; background-clip: border-box !important;">Dear Parents,</p><p style="background-color: rgb(255, 255, 255); background-image: none !important; background-position: 0% 0% !important; background-size: auto !important; background-repeat: repeat !important; background-attachment: scroll !important; background-origin: padding-box !important; background-clip: border-box !important;"><br style="background-image: none !important;"></p><p style="background-color: rgb(255, 255, 255); background-image: none !important; background-position: 0% 0% !important; background-size: auto !important; background-repeat: repeat !important; background-attachment: scroll !important; background-origin: padding-box !important; background-clip: border-box !important;">Kindly note, the menu for July 2026 month .</p><p style="background-color: rgb(255, 255, 255); background-image: none !important; background-position: 0% 0% !important; background-size: auto !important; background-repeat: repeat !important; background-attachment: scroll !important; background-origin: padding-box !important; background-clip: border-box !important;"><br style="background-image: none !important;"></p><p style="background-color: rgb(255, 255, 255); background-image: none !important; background-position: 0% 0% !important; background-size: auto !important; background-repeat: repeat !important; background-attachment: scroll !important; background-origin: padding-box !important; background-clip: border-box !important;">Thanks and Regards ,</p><p style="background-color: rgb(255, 255, 255); background-image: none !important; background-position: 0% 0% !important; background-size: auto !important; background-repeat: repeat !important; background-attachment: scroll !important; background-origin: padding-box !important; background-clip: border-box !important;">KIS Team&nbsp;</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-193678" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-193678" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+    <div id="mediadiv-82926" class="mr-2 mb-2" style="width:200px;height:200px;position:relative;display:inline-block;">
+            <a class="pdffile-attachements" style="max-height:200px;width:100%;cursor:pointer;" target="_blank" href="/appData/Aannouncement/30062026231539097-0.png">
+                    <img src="/appData/Aannouncement/30062026231539097-0.png" style="width:100%;height:200px;" />
+            </a>
+    </div>
+                    <div id="mediadiv-82923" class="mr-2 mb-2" style="width:200px;height:200px;position:relative;display:inline-block;">
+
+                        <div id="aannouncement_Announcementfiles-193678">
+                                <a target="_blank" href="/appData/Aannouncement/30062026220609657-0.pdf" style="cursor:pointer;">
+                                    <img src="/Img/PDF Icon.png" style="width:100%;height:200px;" />
+                                </a>
+                        
+                    </div>
+                    </div>
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_193677" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/30/2026 10:02:55 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,</p><p><br></p><p>Kindly note, the menu for July 2026 month .</p><p><br></p><p>Thanks and Regards ,</p><p>KIS Team&nbsp;</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_193135" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/29/2026 3:49:49 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p><span style="font-size: 13.8px;">Dear Parents,</span></p><p><span style="font-size: 13.8px;">Kindly note the flyer below regarding the Positive Parenting Workshop.</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Date: 4th July 2026</span></p><p><span style="font-size: 13.8px;">Time: 9:30 a.m.</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">We encourage all parents to attend this informative session and look forward to your participation.</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Do follow our Instagram page link for further details</span></p><div><a href="https://www.instagram.com/p/DaCXOmBCGvO/?igsh=a3E1NWwxZjVsOXk=" target="_self" data-saferedirecturl="https://www.google.com/url?q=https://www.instagram.com/p/DaCXOmBCGvO/?igsh%3Da3E1NWwxZjVsOXk%3D&amp;source=gmail&amp;ust=1782814677488000&amp;usg=AOvVaw3G5VMlq21EjDNHIBqB6Xzc" style="color: rgb(17, 85, 204);">https://www.instagram.com/p/<wbr>DaCXOmBCGvO/?igsh=<wbr>a3E1NWwxZjVsOXk=</a></div><div><br></div><div>Warm Regards,</div><div>KIS</div><div><br></div><div><br style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);"></div>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-193135" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-193135" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+    <div id="mediadiv-82628" class="mr-2 mb-2" style="width:200px;height:200px;position:relative;display:inline-block;">
+            <a class="pdffile-attachements" style="max-height:200px;width:100%;cursor:pointer;" target="_blank" href="/appData/Aannouncement/29062026145552066-0.jpg">
+                    <img src="/appData/Aannouncement/29062026145552066-0.jpg" style="width:100%;height:200px;" />
+            </a>
+    </div>
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_192982" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/26/2026 3:38:14 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <div>Dear Parents,</div><div dir="auto"><br></div><div dir="auto">We are pleased to invite you to our Positive Parenting Workshop. </div><div dir="auto"><br></div><div dir="auto">Kindly fill in this form to confirm your participation. </div><div dir="auto"><br></div><div dir="auto"><br></div><div dir="auto"><a href="https://docs.google.com/forms/d/e/1FAIpQLSf5uu6SB0fjmdOwR2BnFtffzNuCJzclT1lYdijnOQRk2ay2-Q/viewform?usp=header" target="_self">https://docs.google.com/forms/d/e/1FAIpQLSf5uu6SB0fjmdOwR2BnFtffzNuCJzclT1lYdijnOQRk2ay2-Q/viewform?usp=header</a></div><div dir="auto"><br></div><div dir="auto"><br></div><div dir="auto">Your response will help us make the necessary arrangements for the session.</div><div dir="auto"><br></div><div dir="auto"><br></div><div dir="auto"><b>Positive Parenting workshop&nbsp;</b></div><div dir="auto"><br></div><div dir="auto">Facilitated by Ms. Madhuri Sharma-&nbsp; Academic Coordinator (Foundation &amp; Preparatory Years – RBKEI), Clinical Psychologist, and Storyteller</div><div dir="auto"><br></div><div dir="auto">Join an engaging and insightful session designed to empower parents with practical strategies for nurturing strong, healthy, and lasting relationships with their children. Drawing on her expertise in education and psychology, Ms. Madhuri Sharma will share valuable tools to help parents foster their child's emotional, social, and personal growth.</div><div dir="auto"><br></div><div dir="auto"><b>Key Takeaways</b></div><div dir="auto"><b><br></b></div><div dir="auto">Effective Communication: Build open, respectful, and meaningful communication with your child.</div><div dir="auto"><br></div><div dir="auto">Boosting Self-Esteem &amp; Resilience: Encourage confidence, independence, and emotional strength.</div><div dir="auto"><br></div><div dir="auto">Managing Emotions with Empathy: Learn compassionate approaches to understanding and guiding children's emotions.</div><div dir="auto"><br></div><div dir="auto">Creating a Positive Home Environment: Foster a supportive, nurturing, and growth-oriented family atmosphere.</div><div dir="auto"><br></div><div dir="auto">Positive Parenting Today, Stronger Future Tomorrow.</div><div dir="auto"><br></div><div dir="auto"><br></div><div dir="auto"><br></div><div dir="auto">Regards,</div><div dir="auto"><br></div><div dir="auto">Team KIS&nbsp;</div><div dir="auto"><br style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);"></div>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-192982" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-192982" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+    <div id="mediadiv-82528" class="mr-2 mb-2" style="width:200px;height:200px;position:relative;display:inline-block;">
+            <a class="pdffile-attachements" style="max-height:200px;width:100%;cursor:pointer;" target="_blank" href="/appData/Aannouncement/26062026153801521-0.jpg">
+                    <img src="/appData/Aannouncement/26062026153801521-0.jpg" style="width:100%;height:200px;" />
+            </a>
+    </div>
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_192966" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/25/2026 10:15:46 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,</p><p>Kindly note the following homework for the weekend:</p><p>Theme Workbook:</p><p>• Page 6 – Learners will colour the labelled internal organs.</p><p>• Page 8 – Learners will tick the activities that are part of their daily routine, starting from last Monday i.e. 22nd June  till Sunday 28th June.</p><p>English:</p><p>Kindly encourage your child to write the long vowel “a” words in their homework book and send the book back on Monday.</p><p>Please also help your child practise these words, as a dictation test on long vowel “a” words will be conducted on Monday.</p><p>Thank you for your support and cooperation.</p><p><br></p><p>Regards,</p><p>Kejal Bhanushali&nbsp;</p><p>Kashish Nariani&nbsp;</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_192675" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/25/2026 12:31:31 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,</p><p>This is to inform you that the school will remain closed on Friday, 26th June, on account of Muharram.&nbsp;</p><p><br></p><p>Regards&nbsp;</p><p>Team KIS</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+            <div id="dvSchoolAnnouncementLoadMore" class="showmorediv">
+                <a class="d-block" id="btnSchoolAnnouncementLoadMore" onclick="$('#dvSchoolAnnouncementLoadMore').remove();" href="/Aannouncement/GetAnnouncementByStudentHash?QHash=CfDJ8I0yd3aLhstOhR6RCtfJnsOTNoVRf8csaS9q8Li7HSQzEJz94I96O3UOA1yopv5ACrTOpsDLpIffScll-JqrODPKOFQhMxaFLJp1DY2YK7rhNhjjPTtmB7FfVy7z36ODsEIeDV0iaxsTylzvTiizKS40kvKG7dZOoa7oYpLI39jALDTXUEfrcGSkqk7qeO397qe5CmzK1XTlJ6NrTfJqKHsxeyZ3UCpqkRFSnM-ShrsRyKqu0KSt1fMtuwcLxge_WXbUrdi9d8uuMWlc5jjrk5IQTfIRvqqertt2WPG2SdP-Q9gBzZvYwXYz_OAel-2xo1PPcD0QZK2J398SDTyS4Ff2f5CH-gGXRQqwhK1E1rZi&amp;PageSize=10&amp;PageNumber=2&amp;DMLFlag=Search&amp;ActionRoute=tnemecnuonnAloohcStnedutS" data-ajax="true" data-ajax-complete="onAjaxcomplete" data-ajax-failure="onAjaxFailure" data-ajax-loading="#loader" data-ajax-update="#schoolannouncementsList" data-ajax-mode="after"><i class="iconsminds-down-1" style="font-size:35px;"></i></a>
+                <script>
+                    $(window).scroll(function () {
+                        if ($(window).scrollTop() + $(window).height() == $(document).height()) {
+                            $("#btnSchoolAnnouncementLoadMore").click();
+                        }
+                    });
+                </script>
+            </div>
+
+
+<script>
+    function onAjaxSuccessSelectSurvey(result) {
+        if (result.status == true) {
+            $('#' + result.dvid).remove();
+        } else {
+            alert(result.message);
+        }
+    }
+</script>
+        <div id="schoolAnnouncement_192421" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/23/2026 6:07:29 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,</p><p><br></p><p>As the monsoon sets in, let us work together to prioritize the health and safety of our students.&nbsp;</p><p>1. Students to wear black color crocs or sandals during rainy season.&nbsp;</p><p>2. We kindly request you to send only raincoats&nbsp; (no umbrellas) with your child to school.</p><p>3. To ensure easy identification, please make sure the raincoat is clearly labelled with your child's name.</p><p><br></p><p>We appreciate your cooperation in helping us maintain a safe and healthy environment during the rainy season..</p><p><br></p><p><br></p><p>Regards,</p><p><br></p><p>Team KIS</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_192302" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/23/2026 1:15:06 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p><span style="font-size: 13.8px;">Dear Parents,&nbsp;&nbsp;</span></p><p><span style="font-size: 13.8px;">Kindly send one postcard-size photo of your child for the portfolio folder by 29th June 2026. Thank you for your cooperation.</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Regards,&nbsp;</span></p><p><span style="font-size: 13.8px;">Team KIS .</span></p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_192010" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/20/2026 6:26:20 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p><span style="font-size: 13.8px;">Dear Parents,</span></p><p><span style="font-size: 13.8px;">As part of the Democratic Republic of Children’s Council activity, we encourage you all to be creative and imaginative while designing the placard for their chosen ministry. The placard should be colourful, attractive, and should clearly represent the purpose and vision of the ministry they are contesting for.</span></p><p><span style="font-size: 13.8px;">For your reference and inspiration, we are attaching a few sample images. You may use these ideas as a guide and add their own unique touch to make their placards stand out.</span></p><p><span style="font-size: 13.8px;">We look forward to seeing the wonderful creativity and enthusiasm of our young leaders!</span></p><p><span style="font-size: 13.8px;">Regards,</span></p><p><span style="font-size: 13.8px;">Kashish Nariani&nbsp;</span></p><p><span style="font-size: 13.8px;">Kejal Bhanushali&nbsp;</span></p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-192010" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-192010" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+    <div id="mediadiv-82056" class="mr-2 mb-2" style="width:200px;height:200px;position:relative;display:inline-block;">
+            <a class="pdffile-attachements" style="max-height:200px;width:100%;cursor:pointer;" target="_blank" href="/appData/Aannouncement/20062026182620675-0.jpg">
+                    <img src="/appData/Aannouncement/20062026182620675-0.jpg" style="width:100%;height:200px;" />
+            </a>
+    </div>
+    <div id="mediadiv-82057" class="mr-2 mb-2" style="width:200px;height:200px;position:relative;display:inline-block;">
+            <a class="pdffile-attachements" style="max-height:200px;width:100%;cursor:pointer;" target="_blank" href="/appData/Aannouncement/20062026182620676-1.jpg">
+                    <img src="/appData/Aannouncement/20062026182620676-1.jpg" style="width:100%;height:200px;" />
+            </a>
+    </div>
+    <div id="mediadiv-82058" class="mr-2 mb-2" style="width:200px;height:200px;position:relative;display:inline-block;">
+            <a class="pdffile-attachements" style="max-height:200px;width:100%;cursor:pointer;" target="_blank" href="/appData/Aannouncement/20062026182620677-2.jpg">
+                    <img src="/appData/Aannouncement/20062026182620677-2.jpg" style="width:100%;height:200px;" />
+            </a>
+    </div>
+    <div id="mediadiv-82059" class="mr-2 mb-2" style="width:200px;height:200px;position:relative;display:inline-block;">
+            <a class="pdffile-attachements" style="max-height:200px;width:100%;cursor:pointer;" target="_blank" href="/appData/Aannouncement/20062026182620678-3.jpg">
+                    <img src="/appData/Aannouncement/20062026182620678-3.jpg" style="width:100%;height:200px;" />
+            </a>
+    </div>
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_191994" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/20/2026 1:35:28 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,</p><p><br></p><p>This is a gentle reminder regarding the Democratic Republic  of Children's Council activity.</p><p><br></p><p>Kindly ensure that your learner prepares and brings the ministry placard on or before Tuesday, 23rd June 2026.</p><p><br></p><p>From Wednesday, 24th June 2026, learners will begin their election campaign by introducing and promoting their chosen ministry to their peers and seeking their votes.</p><p><br></p><p>The Children's Council Election will be held on Wednesday, 1st July 2026.</p><p><br></p><p>We appreciate your support in helping our young leaders prepare for this exciting and meaningful learning experience.</p><p><br></p><p>Regards,</p><p>Team KIS</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_191827" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/19/2026 4:40:39 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p><span style="font-size: 13.8px;">Dear Parents,</span></p><p><span style="font-size: 13.8px;">Kindly note the following homework for the weekend:</span></p><p><span style="font-size: 13.8px;">🔹 Math Number Name Book: Complete number names Six and Seven.</span></p><p><span style="font-size: 13.8px;">🔹 English Notebook: Please help your child practise the ‘a’ family and ‘e’ family words done in the notebook, as a dictation will be conducted on Monday.</span></p><p><span style="font-size: 13.8px;">🔹 Theme Workbook: Complete Page No. 24.</span></p><p><span style="font-size: 13.8px;">Please ensure that all the above books are completed and sent back to school on Monday.</span></p><p><span style="font-size: 13.8px;">Thank you for your cooperation and support.</span></p><p><span style="font-size: 13.8px;">Regards,</span></p><p><span style="font-size: 13.8px;">Kejal Bhanushali&nbsp;</span></p><p><span style="font-size: 13.8px;">Kashish Nariani&nbsp;</span></p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_191437" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/18/2026 7:49:41 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,</p><p><br></p><p>Kindly note that on the occasion of International Yoga Day celebration on 19/06/2026 students of Pre-primary are requested to wear their PE uniform.</p><p><br></p><p>Regards,</p><p>KIS</p><p><br></p><p>Regards&nbsp;</p><p>KIS</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_191570" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/18/2026 5:05:32 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,</p><p><br></p><p>As part of our Democratic Republic of Children's Council activity, learners will participate in an exciting election process to understand the values of democracy, leadership, responsibility, and teamwork.</p><p><br></p><p>Each learner is requested to prepare and bring a neatly made placard representing one ministry of their choice. The placard should be designed and decorated by the learner, with parents assisting only in the neatness and presentation.</p><p><br></p><p>The learner may choose one of the following ministries:</p><p><br></p><p>Agriculture Ministry</p><p><br></p><p>Cultural Ministry</p><p><br></p><p>Education Ministry</p><p><br></p><p>Energy and Power Ministry</p><p><br></p><p>Environment Ministry</p><p><br></p><p>Finance Ministry</p><p><br></p><p>Health and Physical Education Ministry</p><p><br></p><p>Information and Broadcasting Ministry</p><p><br></p><p>Law and Justice Ministry</p><p><br></p><p>Science and Technology Ministry</p><p><br></p><p>On the day of the activity, each learner will proudly hold their placard and introduce their chosen ministry by speaking a few lines about its importance. Learners will nominate and elect their representatives on the election date which will be announced soon.</p><p><br></p><p>We look forward for your support in making this a meaningful and enriching learning experience for our young leaders.</p><p><br></p><p>Regards,</p><p>Team KIS</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_191436" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/18/2026 12:16:45 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p style="background-color: rgba(255, 255, 255, 0.68); width: 1375.76px; text-align: initial !important;">Dear Parents,</p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1375.76px; text-align: initial !important;"><br style="margin-bottom: 0px; width: 100%; text-align: initial !important;"></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1375.76px; text-align: initial !important;">Please find below the link for the 2nd edition of the newsletter for the AY 2026-27 -</p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1375.76px; text-align: initial !important;"><br></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1375.76px; text-align: initial !important;"><span style="background-color: rgba(255, 255, 255, 0.68); text-align: initial;">&nbsp; &nbsp; &nbsp; &nbsp;</span></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1375.76px; text-align: initial !important;"><span style="background-color: rgba(255, 255, 255, 0.68); text-align: initial;"> &nbsp;&nbsp;</span><a href="https://sites.google.com/rbkia.org/cycle2-newsletter/home" target="_self" style="background-color: rgba(255, 255, 255, 0.68); text-align: initial;">https://sites.google.com/rbkia.org/cycle2-newsletter/home</a></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1375.76px; text-align: initial !important;"><br></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1375.76px; text-align: initial !important;"><span style="font-size: 13.8px;"><br></span></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1375.76px; text-align: initial !important;"><span style="font-size: 13.8px;">Regards,</span></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1375.76px; text-align: initial !important;">Team KIS</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_190841" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/15/2026 3:50:47 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,</p><p>The learners are on their way back to school. Due to a slight delay in travel, we are running a little late and are now expected to reach the school by 4:15 p.m.</p><p>We request you to kindly be present for timely dispersal.</p><p>Thank you for your patience and cooperation.</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_190828" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/15/2026 3:18:20 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p><span style="font-size: 13.8px;">Dear Parents,</span></p><p><span style="font-size: 13.8px;">The learners are now heading towards the bus after a fun-filled and enjoyable day. They are expected to reach the school by 3.45 p.m.</span></p><p><span style="font-size: 13.8px;">Kindly be available for dispersal accordingly.</span></p><p><span style="font-size: 13.8px;">Thank you. 😊</span></p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+            <div id="dvSchoolAnnouncementLoadMore" class="showmorediv">
+                <a class="d-block" id="btnSchoolAnnouncementLoadMore" onclick="$('#dvSchoolAnnouncementLoadMore').remove();" href="/Aannouncement/GetAnnouncementByStudentHash?QHash=CfDJ8I0yd3aLhstOhR6RCtfJnsOTNoVRf8csaS9q8Li7HSQzEJz94I96O3UOA1yopv5ACrTOpsDLpIffScll-JqrODPKOFQhMxaFLJp1DY2YK7rhNhjjPTtmB7FfVy7z36ODsEIeDV0iaxsTylzvTiizKS40kvKG7dZOoa7oYpLI39jALDTXUEfrcGSkqk7qeO397qe5CmzK1XTlJ6NrTfJqKHsxeyZ3UCpqkRFSnM-ShrsRyKqu0KSt1fMtuwcLxge_WXbUrdi9d8uuMWlc5jjrk5IQTfIRvqqertt2WPG2SdP-Q9gBzZvYwXYz_OAel-2xo1PPcD0QZK2J398SDTyS4Ff2f5CH-gGXRQqwhK1E1rZi&amp;PageSize=10&amp;PageNumber=3&amp;DMLFlag=Search&amp;ActionRoute=tnemecnuonnAloohcStnedutS" data-ajax="true" data-ajax-complete="onAjaxcomplete" data-ajax-failure="onAjaxFailure" data-ajax-loading="#loader" data-ajax-update="#schoolannouncementsList" data-ajax-mode="after"><i class="iconsminds-down-1" style="font-size:35px;"></i></a>
+                <script>
+                    $(window).scroll(function () {
+                        if ($(window).scrollTop() + $(window).height() == $(document).height()) {
+                            $("#btnSchoolAnnouncementLoadMore").click();
+                        }
+                    });
+                </script>
+            </div>
+
+
+<script>
+    function onAjaxSuccessSelectSurvey(result) {
+        if (result.status == true) {
+            $('#' + result.dvid).remove();
+        } else {
+            alert(result.message);
+        }
+    }
+</script>
+        <div id="schoolAnnouncement_190802" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/15/2026 2:01:07 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p><span style="font-size: 13.8px;">Dear Parents,</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">We are happy to inform you that the learners have finished their lunch and are enjoying their time at the venue. They are actively participating in the activities and having a fun-filled day with their friends.</span></p><p><br></p><p><span style="font-size: 13.8px;">Thank you. 😊</span></p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_190748" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/15/2026 12:20:54 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p><span style="font-size: 13.8px;">Dear Parents,</span></p><p><span style="font-size: 13.8px;">We are delighted to inform you that the learners reached the venue safely at around 10:30 a.m.</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Breakfast was served and enjoyed by the learners in the bus.</span></p><p><span style="font-size: 13.8px;"> They are now happily engaged in various activities in the play area and are having a wonderful time.</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Lunch will be served at 1:00 p.m.</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Thank you for your support.</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;"> </span></p><p><span style="font-size: 13.8px;">We will keep you updated on the learners' day.&nbsp;</span></p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_190681" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/12/2026 7:56:59 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,</p><p>Kindly support your child with their homework and remind them to write the date every time they complete their work.</p><p><br></p><p>Math:</p><p>Please complete Workbook Page No. 9. Instruct your child to draw red and yellow objects.</p><p><br></p><p>English:</p><p>Learners are to practice writing short vowel a family words in their notebook.</p><p><br></p><p>We will soon begin dictation of these words.</p><p><br></p><p>Kindly send the books back on Tuesday.</p><p><br></p><p>Thank you for your cooperation.</p><p><br></p><p>Regards,</p><p>Kashish Nariani&nbsp;</p><p>Kejal Bhanushali&nbsp;</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_190680" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/12/2026 7:54:01 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p style="font-size: 11.8px; background-color: rgba(255, 255, 255, 0.68); width: 265.806px; text-align: initial !important;">Dear Parents,</p><p style="font-size: 11.8px; background-color: rgba(255, 255, 255, 0.68); width: 265.806px; text-align: initial !important;">We are excited to inform you that our picnic to Play 'N' Learn – Kids Interactive Indoor Playground, Ghatkopar is scheduled for Monday, 15th June 2026.</p><p style="font-size: 11.8px; background-color: rgba(255, 255, 255, 0.68); width: 265.806px; text-align: initial !important;">Reporting Time: 08:45 a.m.</p><p style="font-size: 11.8px; background-color: rgba(255, 255, 255, 0.68); width: 265.806px; text-align: initial !important;">Dispersal time will be informed through the School Desk.</p><p style="font-size: 11.8px; background-color: rgba(255, 255, 255, 0.68); width: 265.806px; text-align: initial !important;">Kindly ensure that your ward comes dressed in the proper school uniform, school ID, card, school shoes and socks.</p><p style="font-size: 11.8px; background-color: rgba(255, 255, 255, 0.68); width: 265.806px; text-align: initial !important;">Please send a labelled school bag, shoes, water bottle, and an extra pair of clothes in the bag.</p><p style="font-size: 11.8px; background-color: rgba(255, 255, 255, 0.68); width: 265.806px; text-align: initial !important;">Snacks and lunch will be provided by the school.</p><p style="font-size: 11.8px; background-color: rgba(255, 255, 255, 0.68); width: 265.806px; text-align: initial !important;">We request you not to send any valuable items with your ward.</p><p style="font-size: 11.8px; background-color: rgba(255, 255, 255, 0.68); width: 265.806px; text-align: initial !important;"><br style="margin-bottom: 0px; width: 100%; font-size: 11.8px !important; text-align: initial !important;"></p><p style="font-size: 11.8px; background-color: rgba(255, 255, 255, 0.68); width: 265.806px; text-align: initial !important;">Please note:</p><p style="font-size: 11.8px; background-color: rgba(255, 255, 255, 0.68); width: 265.806px; text-align: initial !important;">- Monday, 15th June 2026, will be a holiday for all Pre-Primary learners who are not participating in the picnic.</p><p style="font-size: 11.8px; background-color: rgba(255, 255, 255, 0.68); width: 265.806px; text-align: initial !important;">- Newly admitted learners who wish to join the picnic may send their confirmation via email at pa.cbse@kanakiais.org</p><p style="font-size: 11.8px; background-color: rgba(255, 255, 255, 0.68); width: 265.806px; text-align: initial !important;">&nbsp;</p><p style="font-size: 11.8px; background-color: rgba(255, 255, 255, 0.68); width: 265.806px; text-align: initial !important;">Thank you for your cooperation.</p><p style="font-size: 11.8px; background-color: rgba(255, 255, 255, 0.68); width: 265.806px; text-align: initial !important;">Regards,</p><p style="font-size: 11.8px; background-color: rgba(255, 255, 255, 0.68); width: 265.806px; text-align: initial !important;">KIS</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_190620" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/12/2026 5:42:00 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <div><div dir="auto">Dear Parents,</div><div dir="auto"><br></div><div dir="auto">We are excited to inform you that our picnic to <b>Play 'N' Learn – Kids Interactive Indoor Playground</b>, Ghatkopar is scheduled for <b>Monday, 15th June 2026.</b></div><div dir="auto"><br></div><div dir="auto"><b>Reporting Time: 08:45 a.m.</b></div><div dir="auto"><br></div><div dir="auto">Dispersal time will be informed through the School Desk.</div><div dir="auto"><br></div><div dir="auto">Kindly ensure that your ward comes dressed in the proper school uniform,&nbsp; school ID, card, school shoes and socks.</div><div dir="auto"><br></div><div dir="auto">Please send a labelled school bag, shoes, water bottle, and an extra pair of clothes in the bag.</div><div dir="auto"><br></div><div dir="auto">Snacks and lunch will be provided by the school.</div><div dir="auto"><br></div><div dir="auto">For Nursery learners, kindly ensure your child wears a diaper and send extra diapers in the bag.</div><div dir="auto"><br></div><div dir="auto">We request you not to send any valuable items with your ward.</div><div dir="auto"><br></div><div dir="auto"><b>Please note:</b></div><div dir="auto"><br></div><div dir="auto">- Monday, 15th June 2026, will be a holiday for all Pre-Primary learners who are not participating in the picnic.</div><div dir="auto">- Newly admitted learners who wish to join the picnic may send their confirmation via email at <a href="mailto:pa.cbse@kanakiais.org" target="_self" style="color: rgb(17, 85, 204);">pa.cbse@kanakiais.org</a></div><div dir="auto">- The cost of the trip is <b>Rs 1850</b> per learner.</div><div dir="auto">&nbsp;</div><div dir="auto">Thank you for your cooperation.</div><div dir="auto"><br></div><div dir="auto">Regards,</div><div dir="auto">KIS</div></div><div><br style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);"></div>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_190321" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/10/2026 6:57:57 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,&nbsp;</p><p><br></p><p>The children who are going for the 1 day picnic to Play n learn, the reporting time will be 8.45am and departure will be 9am. The students who avail the school bus facility, the pick up in morning will be available. In evening the buses will not be available so parents have go make the arrangements to pick their wards from the school.</p><p><br></p><p>All the updates related to the picnic will be timely shared on schooldesk app from school.&nbsp;</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_189090" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/10/2026 6:14:31 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Circular )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);"><strong>Dear Parents,</strong></p><p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);">We are delighted to inform you that the school has organized a fun-filled one-day picnic for our Pre-Primary students to <strong>Play 'N' Learn – Kids Interactive Indoor Playground, Ghatkopar</strong> on <strong>15th June 2026</strong>. The last date for paying is 10th June 2026.&nbsp;</p><p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);">Kindly fill the consent form -&nbsp;&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLSdss2F_UlOJRyr-z68x_Qe8JB1xcWJJQn0W0OGkIb0om-JG4A/viewform?usp=publish-editor" target="_self">https://docs.google.com/forms/d/e/1FAIpQLSdss2F_UlOJRyr-z68x_Qe8JB1xcWJJQn0W0OGkIb0om-JG4A/viewform?usp=publish-editor</a>&nbsp; &nbsp; &nbsp;&nbsp;</p><p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);">Kindly note - The students who avail school bus facility, the pickup will be available in the morning.&nbsp;</p><p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);">Evening time parents have to make the arrangements to pick the child from the school.&nbsp;</p><p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);"><strong>Trip Details:</strong></p><ul style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);"><li style="margin-left: 15px;">Reporting Time at School: 8.45&nbsp;<strong>a.m.</strong> (in proper school uniform)</li><li style="margin-left: 15px;">Departure from School: 9.00<strong>&nbsp;a.m.</strong></li><li style="margin-left: 15px;">Arrival at Venue: <strong>10:00 a.m.</strong></li><li style="margin-left: 15px;">Lunch at Venue: <strong>12:00 noon</strong></li><li style="margin-left: 15px;">Departure from Venue: <strong>2:30 p.m.</strong></li><li style="margin-left: 15px;">Arrival at School: <strong>4:00 p.m.</strong></li></ul><p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);"><strong>Breakfast (en route):</strong> Cheese Sandwich, Muffin, Biscuit &amp; Juice</p><p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);"><strong>Trip Cost:</strong> ₹1,850/- per student (inclusive of all GST and taxes)</p><p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);"><span style="color: rgb(35, 31, 32); font-family: Montserrat; background-color: rgba(255, 255, 255, 0.68);">The payment is to be made through schooldesk app - online store - services tab (swipe to your left from the loose sale kit tab) - play n learn payment tab - select quantity as 1 - go to the cart on top right corner - tick for online payment - and proceed to the payment pag</span></p><p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);"><strong>The cost includes:</strong></p><ul style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);"><li style="margin-left: 15px;">Travel by AC bus</li><li style="margin-left: 15px;">Entry fees and permissions</li><li style="margin-left: 15px;">Breakfast and lunch</li><li style="margin-left: 15px;">Evening snack packet (Farsan)</li><li style="margin-left: 15px;">First-aid facilities</li><li style="margin-left: 15px;">Trained trip representatives accompanying each bus</li></ul><p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);"><strong>Things to Carry:</strong></p><ul style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);"><li style="margin-left: 15px;">School cap</li><li style="margin-left: 15px;">Water bottle</li><li style="margin-left: 15px;">Napkin</li><li style="margin-left: 15px;">One pair of socks</li></ul><p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);"><strong>Important Note:</strong><br>Students are required to remove their shoes before entering the play area. Kindly ensure that your child's shoes are clearly labeled with their name. Wearing socks is mandatory for entry into the centre.</p><p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);">We look forward to a day filled with fun, learning, and memorable experiences for our young learners.</p><p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);"><br></p><p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);"><strong>Regards</strong></p><p style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);"><strong>Team KIS</strong></p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-189090" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-189090" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+                    <div id="mediadiv-80786" class="mr-2 mb-2" style="width:200px;height:200px;position:relative;display:inline-block;">
+
+                        <div id="aannouncement_Announcementfiles-189090">
+                                <a target="_blank" href="/appData/Aannouncement/05062026124612172-0.pdf" style="cursor:pointer;">
+                                    <img src="/Img/PDF Icon.png" style="width:100%;height:200px;" />
+                                </a>
+                        
+                    </div>
+                    </div>
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_190070" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/9/2026 4:15:24 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <div>Dear Parents,</div><div><br></div><div dir="auto">We are delighted to invite you to the <b>Kanakia Kids Basketball Premier League,</b> organized on the occasion of Father's Day, on <b>20th June 2026.</b></div><div dir="auto">Come and join us for a fun-filled morning as our young learners and their fathers come together to celebrate this special bond through an exciting basketball experience.</div><div dir="auto"><br></div><div dir="auto"><b>Timings:&nbsp;</b></div><ul><li><b>Nursery &amp; K1: 8:30 a.m. – 9:30 a.m.</b></li><li><b>K2: 10:00 a.m. – 11:30 a.m.</b></li></ul><div dir="auto">We are also sharing the Google Form link for participation. Kindly fill in the form and confirm your participation if you are interested in joining the event.</div><div dir="auto"><br></div><div dir="auto">We look forward to your enthusiastic participation and presence in making this event a memorable celebration of love, teamwork, and togetherness.</div><div dir="auto"><br></div><div dir="auto">Google Form Link:&nbsp;&nbsp;<a href="https://docs.google.com/forms/d/e/1FAIpQLScoY_v_r2H7C_gtJoXlpevwp0PbOMrLFw0biMlc_FsiPG6Dng/viewform?usp=publish-editor" target="_self" data-saferedirecturl="https://www.google.com/url?q=https://docs.google.com/forms/d/e/1FAIpQLScoY_v_r2H7C_gtJoXlpevwp0PbOMrLFw0biMlc_FsiPG6Dng/viewform?usp%3Dpublish-editor&amp;source=gmail&amp;ust=1781087801798000&amp;usg=AOvVaw2coegWZ7psfvKLCHd7mQUC" style="color: rgb(17, 85, 204);">https://docs.google.com/forms/<wbr>d/e/1FAIpQLScoY_v_r2H7C_<wbr>gtJoXlpevwp0PbOMrLFw0biMlc_<wbr>FsiPG6Dng/viewform?usp=<wbr>publish-editor</a></div><div dir="auto"><br style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);"></div><div dir="auto"><br></div><div dir="auto">Regards,</div><div dir="auto">Team KIS</div><div><br style="color: rgb(34, 34, 34); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);"></div>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-190070" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-190070" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+    <div id="mediadiv-81260" class="mr-2 mb-2" style="width:200px;height:200px;position:relative;display:inline-block;">
+            <a class="pdffile-attachements" style="max-height:200px;width:100%;cursor:pointer;" target="_blank" href="/appData/Aannouncement/09062026161524548-0.jpg">
+                    <img src="/appData/Aannouncement/09062026161524548-0.jpg" style="width:100%;height:200px;" />
+            </a>
+    </div>
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_190067" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/9/2026 4:11:15 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p><span style="font-size: 13.8px;">Dear Parents,</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Kindly note that the Extempore Competition for students of Grade K2 to Grade 5 will be conducted on 10th June 2026 during school hours.</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">The topics for each grade are as follows:</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">K2: My Favourite Toy</span></p><p><span style="font-size: 13.8px;">Grade 1: My Favourite Animal</span></p><p><span style="font-size: 13.8px;">Grade 2: My Best Friend</span></p><p><span style="font-size: 13.8px;">Grade 3: Save Trees, Save Earth</span></p><p><span style="font-size: 13.8px;">Grade 4: The Importance of Healthy Food</span></p><p><span style="font-size: 13.8px;">Grade 5: How I Can Help Protect the Environment</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Guidelines:</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Students should prepare on the given topic.</span></p><p><span style="font-size: 13.8px;">Participants should speak confidently in their own words.</span></p><p><span style="font-size: 13.8px;">Duration: 1–2 minutes (Grades 1–5) and 30–60 seconds (K2).</span></p><p><span style="font-size: 13.8px;">reading from paper will not be allowed.</span></p><p><span style="font-size: 13.8px;">We encourage all students to participate enthusiastically and showcase their speaking skills.</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Regards,</span></p><p><span style="font-size: 13.8px;">KIS</span></p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_189789" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/8/2026 4:33:12 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,</p><p><br></p><p>Please find below the link for the online meet scheduled with the picnic organizers - Farm Studio with regards to the one day picnic at Play n learn -</p><p><br></p><p>Orientation for Pre-primary 1 day picnic to Play n Learn</p><p>Tuesday, <b>June 9 · 10:00 – 11:00 am</b></p><p>Time zone: Asia/Kolkata</p><p>Google Meet joining info</p><p>Video call link: https://meet.google.com/nhk-otvu-ctd</p><p>Or dial: ‪(US) +1 276-738-2560‬ PIN: ‪830 215 875‬#</p><p>More phone numbers: <a href="https://tel.meet/nhk-otvu-ctd" target="_self">https://tel.meet/nhk-otvu-ctd</a></p><p><br></p><p><br></p><p>Regards,</p><p>Team KIS</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+            <div id="dvSchoolAnnouncementLoadMore" class="showmorediv">
+                <a class="d-block" id="btnSchoolAnnouncementLoadMore" onclick="$('#dvSchoolAnnouncementLoadMore').remove();" href="/Aannouncement/GetAnnouncementByStudentHash?QHash=CfDJ8I0yd3aLhstOhR6RCtfJnsOTNoVRf8csaS9q8Li7HSQzEJz94I96O3UOA1yopv5ACrTOpsDLpIffScll-JqrODPKOFQhMxaFLJp1DY2YK7rhNhjjPTtmB7FfVy7z36ODsEIeDV0iaxsTylzvTiizKS40kvKG7dZOoa7oYpLI39jALDTXUEfrcGSkqk7qeO397qe5CmzK1XTlJ6NrTfJqKHsxeyZ3UCpqkRFSnM-ShrsRyKqu0KSt1fMtuwcLxge_WXbUrdi9d8uuMWlc5jjrk5IQTfIRvqqertt2WPG2SdP-Q9gBzZvYwXYz_OAel-2xo1PPcD0QZK2J398SDTyS4Ff2f5CH-gGXRQqwhK1E1rZi&amp;PageSize=10&amp;PageNumber=4&amp;DMLFlag=Search&amp;ActionRoute=tnemecnuonnAloohcStnedutS" data-ajax="true" data-ajax-complete="onAjaxcomplete" data-ajax-failure="onAjaxFailure" data-ajax-loading="#loader" data-ajax-update="#schoolannouncementsList" data-ajax-mode="after"><i class="iconsminds-down-1" style="font-size:35px;"></i></a>
+                <script>
+                    $(window).scroll(function () {
+                        if ($(window).scrollTop() + $(window).height() == $(document).height()) {
+                            $("#btnSchoolAnnouncementLoadMore").click();
+                        }
+                    });
+                </script>
+            </div>
+
+
+<script>
+    function onAjaxSuccessSelectSurvey(result) {
+        if (result.status == true) {
+            $('#' + result.dvid).remove();
+        } else {
+            alert(result.message);
+        }
+    }
+</script>
+        <div id="schoolAnnouncement_189508" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/6/2026 4:41:05 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <div><span style="font-size: 13.8px;">Dear Parents,</span></div><div><span style="font-size: 13.8px;">Greetings!</span></div><div><span style="font-size: 13.8px;">As part of our Tree Plantation Day celebration on 8th June 2026, we request all our Pre-Primary students to bring any one small sapling available at home for the plantation activity.</span></div><div><span style="font-size: 13.8px;">This initiative will help our little ones learn the importance of caring for nature and protecting the environment.</span></div><div><span style="font-size: 13.8px;">We look forward to your support and participation.</span></div><div><span style="font-size: 13.8px;">Regards,</span></div><div><span style="font-size: 13.8px;">KIS</span></div>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_189395" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/6/2026 10:23:04 AM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;">Dear All,</p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;"><br style="margin-bottom: 0px; width: 100%; text-align: initial !important;"></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;">PFA Meeting link for:</p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;"><br style="margin-bottom: 0px; width: 100%; text-align: initial !important;"></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;">The Magic of Storytelling Webinar</p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;">Saturday, June 6 · 10:30 – 11:30am</p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;">Time zone: Asia/Kolkata</p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;">Google Meet joining info</p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;">Video call link: <a href="https://meet.google.com/aqv-vxgk-rjd" target="_self" style="margin-bottom: 0px; width: 100%; line-break: anywhere; color: rgb(139, 188, 241) !important; text-align: initial !important;">https://meet.google.com/aqv-vxgk-rjd</a></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;"><br style="margin-bottom: 0px; width: 100%; text-align: initial !important;"></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;">Regards,&nbsp;</p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;">KIS</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_189334" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/6/2026 8:43:36 AM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p><span style="font-size: 13.8px;">Dear Parents,</span></p><p><span style="font-size: 13.8px;">Kindly note that the Extempore Competition for students of Grade K2 to Grade 5 will be conducted on 10th June 2026 during school hours.</span></p><p><span style="font-size: 13.8px;">The topics for each grade are as follows:</span></p><p><span style="font-size: 13.8px;">K2: My Favourite Toy</span></p><p><span style="font-size: 13.8px;">Grade 1: My Favourite Animal</span></p><p><span style="font-size: 13.8px;">Grade 2: My Best Friend</span></p><p><span style="font-size: 13.8px;">Grade 3: Save Trees, Save Earth</span></p><p><span style="font-size: 13.8px;">Grade 4: The Importance of Healthy Food</span></p><p><span style="font-size: 13.8px;">Grade 5: How I Can Help Protect the Environment</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Guidelines:</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Students should prepare on the given topic.</span></p><p><span style="font-size: 13.8px;">Participants should speak confidently in their own words.</span></p><p><span style="font-size: 13.8px;">Duration: 1–2 minutes (Grades 1–5) and 30–60 seconds (K2).</span></p><p><span style="font-size: 13.8px;">reading from paper will not be allowed.</span></p><p><span style="font-size: 13.8px;">We encourage all students to participate enthusiastically and showcase their speaking skills.</span></p><p><span style="font-size: 13.8px;">Regards,</span></p><p><span style="font-size: 13.8px;">KIS</span></p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_189273" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/5/2026 6:25:55 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p><span style="font-size: 13.8px;">Dear Parents,</span></p><p>Greetings!</p><p>Welcome back to school! We hope you and your family had a wonderful and refreshing summer vacation.</p><p>Thank you for the overwhelming response to the Summer Break Activity. The projects submitted by the children beautifully reflected creativity, enthusiasm, and the sincere efforts put in by both the children and parents. We truly appreciate your support and dedication towards your child's learning journey.</p><p>As there has been a change in the division of a few students from K2 C to K2 B, we are sharing the Class Timetable and Quarter 1 Unit Letter once again for your reference.</p><p>Thank you for your continued support and cooperation. We look forward to a wonderful and productive academic year ahead.</p><p><br></p><p>Warm Regards</p><p>Kashish Nariani&nbsp;</p><p>Kejal Bhanushali</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-189273" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-189273" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+                    <div id="mediadiv-80873" class="mr-2 mb-2" style="width:200px;height:200px;position:relative;display:inline-block;">
+
+                        <div id="aannouncement_Announcementfiles-189273">
+                                <a target="_blank" href="/appData/Aannouncement/05062026182555368-0.pdf" style="cursor:pointer;">
+                                    <img src="/Img/PDF Icon.png" style="width:100%;height:200px;" />
+                                </a>
+                        
+                    </div>
+                    </div>
+                    <div id="mediadiv-80874" class="mr-2 mb-2" style="width:200px;height:200px;position:relative;display:inline-block;">
+
+                        <div id="aannouncement_Announcementfiles-189273">
+                                <a target="_blank" href="/appData/Aannouncement/05062026182555369-1.pdf" style="cursor:pointer;">
+                                    <img src="/Img/PDF Icon.png" style="width:100%;height:200px;" />
+                                </a>
+                        
+                    </div>
+                    </div>
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_189240" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/5/2026 5:25:30 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,&nbsp;</p><p><br></p><p>The uniform vendor will be available every Thursday from 12 pm to 3 pm in the new building 2nd floor.&nbsp;</p><p><br></p><p><br></p><p>Regards,&nbsp;</p><p><br></p><p>Team KIS</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_187324" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/5/2026 5:22:04 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Circular )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Kindly find the flyer below for the Storytelling Session. We invite you to participate and discover how the art of storytelling can foster stronger bonds between students and teachers while enriching the overall learning experience.</p><p><br></p><p>PFA Form link for The Magic of Storytelling Webinar  -&nbsp;</p><p><br></p><p><a href="https://docs.google.com/forms/d/e/1FAIpQLScEo7UnOrpSFbYFYlhNjF7IL-yEi6jAsEa4nvQOrvaMc63G5g/viewform?usp=dialo" target="_self">https://docs.google.com/forms/d/e/1FAIpQLScEo7UnOrpSFbYFYlhNjF7IL-yEi6jAsEa4nvQOrvaMc63G5g/viewform?usp=dialo</a></p><p><br></p><p>PFA Meeting link for:</p><p><br></p><p>The Magic of Storytelling Webinar</p><p>Saturday, June 6 · 10:30 – 11:30am</p><p>Time zone: Asia/Kolkata</p><p>Google Meet joining info</p><p>Video call link: https://meet.google.com/aqv-vxgk-rjd</p><p><br></p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-187324" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-187324" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+    <div id="mediadiv-79405" class="mr-2 mb-2" style="width:200px;height:200px;position:relative;display:inline-block;">
+            <a class="pdffile-attachements" style="max-height:200px;width:100%;cursor:pointer;" target="_blank" href="/appData/Aannouncement/01062026155051739-0.jpeg">
+                    <img src="/appData/Aannouncement/01062026155051739-0.jpeg" style="width:100%;height:200px;" />
+            </a>
+    </div>
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_189108" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/5/2026 1:17:34 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p><span style="font-size: 13.8px;">Dear Parents,</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Learners have been given Math Workbook pages 6 and 7 as homework. Teachers will mark the homework by writing “HW” on the top of the page for your reference.</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">We kindly request you to support your child in completing the work neatly. Additionally, please encourage your child to practice writing the date every time they receive homework.</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Thank you for your cooperation.</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Warm Regards,</span></p><p><span style="font-size: 13.8px;">Kejal Bhanushali&nbsp;</span></p><p><span style="font-size: 13.8px;">Kashish Nariani&nbsp;</span></p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_187698" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/3/2026 5:00:43 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,</p><p><br></p><p>PFA the calendar for the month of June 2026 for your reference.&nbsp;</p><p><br></p><p><br></p><p>Regards,</p><p><br></p><p>Team KIS</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-187698" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-187698" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+                    <div id="mediadiv-79553" class="mr-2 mb-2" style="width:200px;height:200px;position:relative;display:inline-block;">
+
+                        <div id="aannouncement_Announcementfiles-187698">
+                                <a target="_blank" href="/appData/Aannouncement/03062026170043912-0.pdf" style="cursor:pointer;">
+                                    <img src="/Img/PDF Icon.png" style="width:100%;height:200px;" />
+                                </a>
+                        
+                    </div>
+                    </div>
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_187692" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/3/2026 4:37:30 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Circular )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;">Dear Parents,</span></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;"><br style="margin-bottom: 0px; width: 100%; text-align: initial !important;"></span></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;">Please note the schedule for vendor availability on the school premises:</span></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;"><br style="margin-bottom: 0px; width: 100%; text-align: initial !important;"></span></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;">• Bus Vendor: Available from 1st June onwards between 9:00 am to 2:00 pm - Reception Area Old Building&nbsp;</span></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;"><br style="margin-bottom: 0px; width: 100%; text-align: initial !important;"></span></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;">• Uniform Vendor: - 2nd Floor, New building&nbsp;</span></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;"><br style="margin-bottom: 0px; width: 100%; text-align: initial !important;"></span></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;">- 28th May: 12:00 pm to 3:00 pm</span></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;">- 4th &amp; 5th June: 10:00 am to 2:30 pm</span></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;"><br style="margin-bottom: 0px; width: 100%; text-align: initial !important;"></span></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;">Kindly plan your visit accordingly.</span></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;"><br style="margin-bottom: 0px; width: 100%; text-align: initial !important;"></span></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;">Regards,&nbsp;</p><p style="background-color: rgba(255, 255, 255, 0.68); width: 1044px; text-align: initial !important;">Team KIS&nbsp;</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_187691" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/3/2026 4:35:41 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p><span style="font-size: 13.8px;">Dear Parents,</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Greetings!</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">We are delighted to inform you that the school will reopen tomorrow, 4th June 2026, marking the beginning of a new academic year filled with learning, growth, and exciting opportunities.</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Our entire school team is eagerly looking forward to welcoming our learners back to campus. We are excited to see their smiling faces, hear their stories, and embark on another wonderful journey of learning together.</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Kindly ensure that your child reports to school on time in proper school uniform and carries all the necessary school supplies as per the schedule shared.</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">We wish all our students a happy, successful, and enriching academic year ahead.</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Looking forward to welcoming our learners tomorrow!</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Warm Regards,</span></p><p><span style="font-size: 13.8px;">Team KIS&nbsp;</span></p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+            <div id="dvSchoolAnnouncementLoadMore" class="showmorediv">
+                <a class="d-block" id="btnSchoolAnnouncementLoadMore" onclick="$('#dvSchoolAnnouncementLoadMore').remove();" href="/Aannouncement/GetAnnouncementByStudentHash?QHash=CfDJ8I0yd3aLhstOhR6RCtfJnsOTNoVRf8csaS9q8Li7HSQzEJz94I96O3UOA1yopv5ACrTOpsDLpIffScll-JqrODPKOFQhMxaFLJp1DY2YK7rhNhjjPTtmB7FfVy7z36ODsEIeDV0iaxsTylzvTiizKS40kvKG7dZOoa7oYpLI39jALDTXUEfrcGSkqk7qeO397qe5CmzK1XTlJ6NrTfJqKHsxeyZ3UCpqkRFSnM-ShrsRyKqu0KSt1fMtuwcLxge_WXbUrdi9d8uuMWlc5jjrk5IQTfIRvqqertt2WPG2SdP-Q9gBzZvYwXYz_OAel-2xo1PPcD0QZK2J398SDTyS4Ff2f5CH-gGXRQqwhK1E1rZi&amp;PageSize=10&amp;PageNumber=5&amp;DMLFlag=Search&amp;ActionRoute=tnemecnuonnAloohcStnedutS" data-ajax="true" data-ajax-complete="onAjaxcomplete" data-ajax-failure="onAjaxFailure" data-ajax-loading="#loader" data-ajax-update="#schoolannouncementsList" data-ajax-mode="after"><i class="iconsminds-down-1" style="font-size:35px;"></i></a>
+                <script>
+                    $(window).scroll(function () {
+                        if ($(window).scrollTop() + $(window).height() == $(document).height()) {
+                            $("#btnSchoolAnnouncementLoadMore").click();
+                        }
+                    });
+                </script>
+            </div>
+
+
+<script>
+    function onAjaxSuccessSelectSurvey(result) {
+        if (result.status == true) {
+            $('#' + result.dvid).remove();
+        } else {
+            alert(result.message);
+        }
+    }
+</script>
+        <div id="schoolAnnouncement_187478" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/3/2026 1:45:20 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,</p><p><br></p><p>PFA the menu for the month of June 2026.&nbsp;</p><p><br></p><p><br></p><p><br></p><p>Regards,</p><p>Team KIS</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-187478" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-187478" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+    <div id="mediadiv-79451" class="mr-2 mb-2" style="width:200px;height:200px;position:relative;display:inline-block;">
+            <a class="pdffile-attachements" style="max-height:200px;width:100%;cursor:pointer;" target="_blank" href="/appData/Aannouncement/03062026134520089-0.png">
+                    <img src="/appData/Aannouncement/03062026134520089-0.png" style="width:100%;height:200px;" />
+            </a>
+    </div>
+                    <div id="mediadiv-79452" class="mr-2 mb-2" style="width:200px;height:200px;position:relative;display:inline-block;">
+
+                        <div id="aannouncement_Announcementfiles-187478">
+                                <a target="_blank" href="/appData/Aannouncement/03062026134520099-0.pdf" style="cursor:pointer;">
+                                    <img src="/Img/PDF Icon.png" style="width:100%;height:200px;" />
+                                </a>
+                        
+                    </div>
+                    </div>
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_187395" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/2/2026 4:13:40 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parent,</p><p><br></p><p>Gentle reminder to kindly collect your child's Admission Booklet from the school's reception from Monday to Friday between 9:00am to 3:00pm and on Saturday's between 9:00am to 12:00noon.</p><p><br></p><p>In case if you have any queries you can whatsapp us on 7400091649/ 8879688675.</p><p><br></p><p>Note: If already collected the Admission Booklet then kindly submit the same at the reception at the earliest. Kindly ignore, if already submitted.</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_187321" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                6/1/2026 3:49:17 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p style="margin-right: 0px; margin-left: 15px; text-indent: -15px; font-style: normal; font-variant-caps: normal; font-width: normal; font-size: 17px; line-height: normal; font-family: &quot;Times New Roman&quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(255, 255, 255); -webkit-text-stroke-width: 0px; -webkit-text-stroke-color: rgb(255, 255, 255);"><span style="font-size: 17px; font-kerning: none;">Ki</span><span style="background-color: rgb(255, 255, 255); font-size: 0.8rem; color: rgb(35, 31, 32); font-family: Montserrat; text-size-adjust: 100%;">Kindly find the flyer below for the Storytelling Session. We invite you to participate and discover how the art of storytelling can foster stronger bonds between students and teachers while enriching the overall learning experience.</span><span style="font-size: 17px; text-size-adjust: 100%;">. We invite you to participate and discover how the art of storytelling</span></p><p style="margin-right: 0px; margin-left: 15px; text-indent: -15px; font-style: normal; font-variant-caps: normal; font-width: normal; font-size: 17px; line-height: normal; font-family: &quot;Times New Roman&quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(255, 255, 255); -webkit-text-stroke-width: 0px; -webkit-text-stroke-color: rgb(255, 255, 255);"><span style="font-size: 17px; font-kerning: none;">flyer below for the Storytelling S</span><span style="color: rgb(35, 31, 32); font-size: 0.8rem; background-color: rgb(255, 255, 255); font-family: Montserrat; -webkit-text-size-adjust: 100%;">&nbsp;</span></p><p style="margin-right: 0px; margin-left: 15px; text-indent: -15px; font-style: normal; font-variant-caps: normal; font-width: normal; font-size: 17px; line-height: normal; font-family: &quot;Times New Roman&quot;; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(255, 255, 255); -webkit-text-stroke-width: 0px; -webkit-text-stroke-color: rgb(255, 255, 255);"><span style="font-size: 17px; -webkit-text-size-adjust: 100%;">can foster stronger bonds between students and teachers while enriching the overall learning experience.</span></p><div><span style="font-size: 17px; font-kerning: none;"><br></span></div>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-187321" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-187321" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+    <div id="mediadiv-79403" class="mr-2 mb-2" style="width:200px;height:200px;position:relative;display:inline-block;">
+            <a class="pdffile-attachements" style="max-height:200px;width:100%;cursor:pointer;" target="_blank" href="/appData/Aannouncement/01062026153119494-0.jpeg">
+                    <img src="/appData/Aannouncement/01062026153119494-0.jpeg" style="width:100%;height:200px;" />
+            </a>
+    </div>
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_187113" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                5/27/2026 4:50:53 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p><span style="font-size: 13.8px;">Dear Parents,</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Please note the schedule for vendor availability on the school premises:</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">• Bus Vendor: Available from 1st June onwards between 9:00 am to 2:00 pm.</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">• Uniform Vendor:</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">- 28th May: 12:00 pm to 3:00 pm</span></p><p><span style="font-size: 13.8px;">- 4th &amp; 5th June: 10:00 am to 2:30 pm</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Kindly plan your visit accordingly.</span></p><p><span style="font-size: 13.8px;"><br></span></p><p>Regards,&nbsp;</p><p>Team KIS&nbsp;</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_187062" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                5/27/2026 9:06:49 AM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p><span style="font-size: 13.8px;">Dear Parent,</span></p><p><span style="font-size: 13.8px;">​Please be informed that our technical team is currently conducting necessary server maintenance to improve system performance today.</span></p><p><span style="font-size: 13.8px;">​During this period, you may experience brief outages or intermittent connectivity issues while using Schooldesk services. We expect normal operations to resume shortly.</span></p><p><span style="font-size: 13.8px;">​Thank you for your cooperation and understanding.</span></p><p><span style="font-size: 13.8px;">​Best regards,</span></p><p><span style="font-size: 13.8px;">Schooldesk Support Team</span></p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_186158" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                5/8/2026 11:00:27 AM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,</p><p><br></p><p class="isSelectedEnd">You are requested to fill in the Google Form mentioned below to help us understand and maintain the record of the mode of transport used by your child for commuting to and from school.</p><p class="isSelectedEnd">Your timely response will help us in ensuring smooth coordination and student safety.</p><p class="isSelectedEnd"><br></p><p class="isSelectedEnd"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfYuxU2D2Q0aqAizkQ7Vi6nS05RUqvtpK7KWHXy9X7Suq5Kzw/viewform?usp=publish-editor" target="_self">https://docs.google.com/forms/d/e/1FAIpQLSfYuxU2D2Q0aqAizkQ7Vi6nS05RUqvtpK7KWHXy9X7Suq5Kzw/viewform?usp=publish-editor</a><span style="background-color: rgb(255, 255, 255);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p><p class="isSelectedEnd"><span style="background-color: rgb(255, 255, 255);"><br></span></p><p class="isSelectedEnd">We request you to complete the form at the earliest.</p><p class="isSelectedEnd"><br></p><p>Regards,</p><p>Team KIS</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_185934" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                5/1/2026 8:16:11 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,</p><p>As per the latest instructions received from the Management and CBSE, the student strength in each division needs to be maintained between 33 to 36 students.</p><p>Accordingly, there may be a change in the division of some students. The same will be implemented over the next 1–2 days.</p><p>Please note that this is a mandatory process, and no requests or arguments regarding the same will be entertained. We request your cooperation and understanding.</p><p>Regards,</p><p><br></p><p>Team KIS</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_185599" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                4/29/2026 2:45:01 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p><span style="font-size: 13.8px;">Dear Parents,</span></p><p><span style="font-size: 13.8px;">Sharing a fun Nature Treasure Hunt activity for the summer break.</span></p><p><span style="font-size: 13.8px;">Do explore this with your child and encourage them to learn through nature while enjoying their holidays.</span></p><p><span style="font-size: 13.8px;">Kindly have your child bring back the completed activity sheet on the first day of school as a lovely memory of their summer learning.</span></p><p><span style="font-size: 13.8px;">Happy Exploring!</span></p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-185599" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-185599" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+    <div id="mediadiv-78505" class="mr-2 mb-2" style="width:200px;height:200px;position:relative;display:inline-block;">
+            <a class="pdffile-attachements" style="max-height:200px;width:100%;cursor:pointer;" target="_blank" href="/appData/Aannouncement/29042026144501949-0.jpg">
+                    <img src="/appData/Aannouncement/29042026144501949-0.jpg" style="width:100%;height:200px;" />
+            </a>
+    </div>
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_185595" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                4/29/2026 2:42:09 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p><span style="font-size: 13.8px;">Dear Parents,</span></p><p><span style="font-size: 13.8px;">Sharing a fun Nature Treasure Hunt activity for the summer break.</span></p><p><span style="font-size: 13.8px;">Do explore this with your child and encourage them to learn through nature while enjoying their holidays.</span></p><p><span style="font-size: 13.8px;">Kindly have your child bring back the completed activity sheet on the first day of school as a lovely memory of their summer learning.</span></p><p><span style="font-size: 13.8px;">Happy Exploring!</span></p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-185595" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-185595" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+    <div id="mediadiv-78502" class="mr-2 mb-2" style="width:200px;height:200px;position:relative;display:inline-block;">
+            <a class="pdffile-attachements" style="max-height:200px;width:100%;cursor:pointer;" target="_blank" href="/appData/Aannouncement/29042026144209746-0.jpg">
+                    <img src="/appData/Aannouncement/29042026144209746-0.jpg" style="width:100%;height:200px;" />
+            </a>
+    </div>
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_185465" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                4/29/2026 8:52:04 AM
+                                <b> (<i class="iconsminds-tag-3"></i> NewsLetter )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,</p><p><br></p><p>Please find below the link for the 1st edition of the newsletter for the AY 2026-27 -</p><p><br></p><p><a href="https://sites.google.com/rbkia.org/april-2026/home" target="_self" data-saferedirecturl="https://www.google.com/url?q=https://sites.google.com/rbkia.org/april-2026/home&amp;source=gmail&amp;ust=1777519269529000&amp;usg=AOvVaw06tuhYJTVPfE4L4A1HI-lN" mcafee_aps="true" style="color: rgb(17, 85, 204); font-family: Arial, Helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255);">https://sites.google.com/<wbr>rbkia.org/april-2026/home</a></p><p><br></p><p><br></p><p>Regards,</p><p><br></p><p>Team KIS</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+            <div id="dvSchoolAnnouncementLoadMore" class="showmorediv">
+                <a class="d-block" id="btnSchoolAnnouncementLoadMore" onclick="$('#dvSchoolAnnouncementLoadMore').remove();" href="/Aannouncement/GetAnnouncementByStudentHash?QHash=CfDJ8I0yd3aLhstOhR6RCtfJnsOTNoVRf8csaS9q8Li7HSQzEJz94I96O3UOA1yopv5ACrTOpsDLpIffScll-JqrODPKOFQhMxaFLJp1DY2YK7rhNhjjPTtmB7FfVy7z36ODsEIeDV0iaxsTylzvTiizKS40kvKG7dZOoa7oYpLI39jALDTXUEfrcGSkqk7qeO397qe5CmzK1XTlJ6NrTfJqKHsxeyZ3UCpqkRFSnM-ShrsRyKqu0KSt1fMtuwcLxge_WXbUrdi9d8uuMWlc5jjrk5IQTfIRvqqertt2WPG2SdP-Q9gBzZvYwXYz_OAel-2xo1PPcD0QZK2J398SDTyS4Ff2f5CH-gGXRQqwhK1E1rZi&amp;PageSize=10&amp;PageNumber=6&amp;DMLFlag=Search&amp;ActionRoute=tnemecnuonnAloohcStnedutS" data-ajax="true" data-ajax-complete="onAjaxcomplete" data-ajax-failure="onAjaxFailure" data-ajax-loading="#loader" data-ajax-update="#schoolannouncementsList" data-ajax-mode="after"><i class="iconsminds-down-1" style="font-size:35px;"></i></a>
+                <script>
+                    $(window).scroll(function () {
+                        if ($(window).scrollTop() + $(window).height() == $(document).height()) {
+                            $("#btnSchoolAnnouncementLoadMore").click();
+                        }
+                    });
+                </script>
+            </div>
+
+
+<script>
+    function onAjaxSuccessSelectSurvey(result) {
+        if (result.status == true) {
+            $('#' + result.dvid).remove();
+        } else {
+            alert(result.message);
+        }
+    }
+</script>
+        <div id="schoolAnnouncement_185307" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                4/28/2026 1:07:16 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,</p><p><br></p><p>Homework has been sent in the English and Math homework books. Kindly ensure that your child completes the assigned work during the summer break and maintains neatness in their books.</p><p><br></p><p>Additionally, the Fitzroy books have been sent home. Please have your child read the story “The Animals.”</p><p><br></p><p>Parents of children who were absent today and will not be attending tomorrow are requested to make arrangements to collect their child’s homework books from the school.</p><p><br></p><p>Kindly ensure that all the books are sent back on the first day of school reopening.</p><p><br></p><p>Regards,</p><p>Kejal Bhanushali&nbsp;</p><p>Kashish Nariani&nbsp;</p><p><br></p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_185193" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                4/27/2026 5:32:39 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p><span style="font-size: 13.8px;">Dear Parents,</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">On 29th April, we will be celebrating the last day of school before the summer break. Children are requested to come dressed in summer-themed costumes.</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Kindly ensure your child is dressed comfortably and carries their regular essentials.</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Thanks &amp; regards&nbsp;</span></p><p><span style="font-size: 13.8px;">Kejal Bhanushali&nbsp;</span></p><p><span style="font-size: 13.8px;">Kashish Nariani&nbsp;</span></p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_184277" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                4/23/2026 11:49:30 AM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p data-start="23" data-end="38">Dear Parents,</p><p data-start="23" data-end="38"><br></p><p data-start="40" data-end="214">Please note that parents visiting the school for purchasing books and stationery are strictly not allowed to visit classrooms or interact with teachers during school hours.</p><p data-start="216" data-end="463">In case you need to hand over any books or materials to your child, the same must be deposited at the reception. Under no circumstances will parents be permitted to go directly to the classroom without prior approval from the school authorities.</p><p data-start="216" data-end="463"><br></p><p data-start="465" data-end="590">Your strict adherence to this directive is expected to ensure the safety, discipline, and smooth functioning of the school.</p><p data-start="465" data-end="590"><br></p><p>
+
+
+
+</p><p data-start="592" data-end="616" data-is-last-node="" data-is-only-node="">Regards,</p><p data-start="592" data-end="616" data-is-last-node="" data-is-only-node="">Team KIS</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_184197" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                4/22/2026 6:00:01 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,&nbsp;</p><p><br></p><p>Kindly note, the uniform vendor will be available tomorrow ie 23rd April 2026 from 9 am to 2.30 pm.&nbsp;</p><p><br></p><p><br></p><p>Regards,&nbsp;</p><p><br></p><p>Team KIS</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_183945" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                4/21/2026 3:41:27 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p><span style="font-size: 13.8px;">Dear Parents,</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">On account of Earth Day celebration , learners are requested to come dressed in green coloured clothes to school. We look forward to celebrating the day with our little ones.</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Thank you for your support.</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Thanks &amp; regards,</span></p><p><span style="font-size: 13.8px;">Kejal Bhanushali&nbsp;</span></p><p><span style="font-size: 13.8px;">Kashish Nariani&nbsp;</span></p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_183191" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                4/17/2026 2:19:21 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <div style="color: rgb(0, 0, 0); font-family: sans-serif; font-size: 12.8px; background-color: rgb(250, 248, 255);">Dear Parents,</div><div style="color: rgb(0, 0, 0); font-family: sans-serif; font-size: 12.8px; background-color: rgb(250, 248, 255);">Greetings&nbsp;</div><div style="color: rgb(0, 0, 0); font-family: sans-serif; font-size: 12.8px; background-color: rgb(250, 248, 255);"><br></div><div style="color: rgb(0, 0, 0); font-family: sans-serif; font-size: 12.8px; background-color: rgb(250, 248, 255);">Please Find Attached the Quarter 1 Unit Letter .</div><div style="color: rgb(0, 0, 0); font-family: sans-serif; font-size: 12.8px; background-color: rgb(250, 248, 255);"><br></div><div style="color: rgb(0, 0, 0); font-family: sans-serif; font-size: 12.8px; background-color: rgb(250, 248, 255);">Warm regards,</div><div style="color: rgb(0, 0, 0); font-family: sans-serif; font-size: 12.8px; background-color: rgb(250, 248, 255);">Kejal Bhanushali&nbsp;</div><div style="color: rgb(0, 0, 0); font-family: sans-serif; font-size: 12.8px; background-color: rgb(250, 248, 255);">Kashish Nariani</div>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-183191" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-183191" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+                    <div id="mediadiv-77385" class="mr-2 mb-2" style="width:200px;height:200px;position:relative;display:inline-block;">
+
+                        <div id="aannouncement_Announcementfiles-183191">
+                                <a target="_blank" href="/appData/Aannouncement/17042026141921146-0.pdf" style="cursor:pointer;">
+                                    <img src="/Img/PDF Icon.png" style="width:100%;height:200px;" />
+                                </a>
+                        
+                    </div>
+                    </div>
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_182586" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                4/13/2026 7:35:27 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,&nbsp;</p><p><br></p><p>Kindly note, this week the uniform vendor will be available on Wednesday from 9 am to 2.30 pm and from next week onwards every Thursday the vendor will be available from 9 am to 2.30 pm on 4th floor room no. 401.&nbsp;</p><p><br></p><p><br></p><p>Regards,&nbsp;</p><p>Team KIS</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_182585" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                4/13/2026 7:33:13 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,&nbsp;</p><p><br></p><p>Kindly note tomorrow 14th April 2026 is a holiday on account of Ambedkar Jayanti.&nbsp;</p><p><br></p><p>Regards</p><p>Team KIS</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_182545" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                4/13/2026 6:14:29 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p style="background-color: rgba(255, 255, 255, 0.68); width: 958px; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;">Dear Parents,</span></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 958px; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;">Greetings!</span></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 958px; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;">You are invited to attend the “Know Your Teachers” event on Saturday, 18th April. Please find the time slots mentioned below for your reference.</span></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 958px; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;"><br style="margin-bottom: 0px; width: 100%; text-align: initial !important;"></span></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 958px; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;">Kindly adhere to the given time slots and ensure you arrive on time.</span></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 958px; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;"><br style="margin-bottom: 0px; width: 100%; text-align: initial !important;"></span></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 958px; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;">Regards,</span></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 958px; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;">Kashish Nariani</span></p><p style="background-color: rgba(255, 255, 255, 0.68); width: 958px; text-align: initial !important;"><span style="margin-bottom: 0px; width: 100%; text-align: initial !important;">Kejal Bhanushali</span></p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-182545" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-182545" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+                    <div id="mediadiv-77196" class="mr-2 mb-2" style="width:200px;height:200px;position:relative;display:inline-block;">
+
+                        <div id="aannouncement_Announcementfiles-182545">
+                                <a target="_blank" href="/appData/Aannouncement/13042026181429877-0.pdf" style="cursor:pointer;">
+                                    <img src="/Img/PDF Icon.png" style="width:100%;height:200px;" />
+                                </a>
+                        
+                    </div>
+                    </div>
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_182346" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                4/11/2026 6:40:49 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,</p><p>Kindly note the drawing topics for the “I Love Art” Drawing Competition to be held on 27th April:</p><p>Nursery – My Favourite Fruit</p><p>K1 – My Favourite Toy</p><p>K2 – Under the Sea / Dream House</p><p>Grade 1 – My Favourite Cartoon</p><p>Grade 2 – My Favourite Season</p><p>Grade 3 – My City</p><p>Grade 4 – Underwater World</p><p>Grade 5 – Magical Forest</p><p>Grade 6 – A World Without Trees</p><p>Grade 7 – Wildlife Conservation / Power of Nature</p><p>Grade 8 – Digital World vs Real World</p><p>Grade 9 – Women Empowerment / Social Media Impact</p><p>Regards,&nbsp;</p><p>KIS</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+            <div id="dvSchoolAnnouncementLoadMore" class="showmorediv">
+                <a class="d-block" id="btnSchoolAnnouncementLoadMore" onclick="$('#dvSchoolAnnouncementLoadMore').remove();" href="/Aannouncement/GetAnnouncementByStudentHash?QHash=CfDJ8I0yd3aLhstOhR6RCtfJnsOTNoVRf8csaS9q8Li7HSQzEJz94I96O3UOA1yopv5ACrTOpsDLpIffScll-JqrODPKOFQhMxaFLJp1DY2YK7rhNhjjPTtmB7FfVy7z36ODsEIeDV0iaxsTylzvTiizKS40kvKG7dZOoa7oYpLI39jALDTXUEfrcGSkqk7qeO397qe5CmzK1XTlJ6NrTfJqKHsxeyZ3UCpqkRFSnM-ShrsRyKqu0KSt1fMtuwcLxge_WXbUrdi9d8uuMWlc5jjrk5IQTfIRvqqertt2WPG2SdP-Q9gBzZvYwXYz_OAel-2xo1PPcD0QZK2J398SDTyS4Ff2f5CH-gGXRQqwhK1E1rZi&amp;PageSize=10&amp;PageNumber=7&amp;DMLFlag=Search&amp;ActionRoute=tnemecnuonnAloohcStnedutS" data-ajax="true" data-ajax-complete="onAjaxcomplete" data-ajax-failure="onAjaxFailure" data-ajax-loading="#loader" data-ajax-update="#schoolannouncementsList" data-ajax-mode="after"><i class="iconsminds-down-1" style="font-size:35px;"></i></a>
+                <script>
+                    $(window).scroll(function () {
+                        if ($(window).scrollTop() + $(window).height() == $(document).height()) {
+                            $("#btnSchoolAnnouncementLoadMore").click();
+                        }
+                    });
+                </script>
+            </div>
+
+
+<script>
+    function onAjaxSuccessSelectSurvey(result) {
+        if (result.status == true) {
+            $('#' + result.dvid).remove();
+        } else {
+            alert(result.message);
+        }
+    }
+</script>
+        <div id="schoolAnnouncement_182337" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                4/11/2026 12:02:44 AM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p style="font-size: 11.8px; background-color: rgba(255, 255, 255, 0.68); text-align: initial; width: 958px;">Dear Parents,</p><p style="font-size: 11.8px; background-color: rgba(255, 255, 255, 0.68); text-align: initial; width: 958px;">Greetings!</p><p style="font-size: 11.8px; background-color: rgba(255, 255, 255, 0.68); text-align: initial; width: 958px;">Kindly find attached calendar for the month of April for your reference. The calendar includes important dates, events, and activities planned for the learners. We request you to go through it carefully and make a note of the same.</p><p style="font-size: 11.8px; background-color: rgba(255, 255, 255, 0.68); text-align: initial; width: 958px;">Thank you for your continued support and cooperation.</p><p style="font-size: 11.8px; background-color: rgba(255, 255, 255, 0.68); text-align: initial; width: 958px;">Warm regards,<br style="margin-bottom: 0px; width: 100%; font-size: 11.8px !important; text-align: initial !important;">Ms. Kashish Nariani&nbsp;<br style="margin-bottom: 0px; width: 100%; font-size: 11.8px !important; text-align: initial !important;">Ms. Kejal Bhanushali&nbsp;</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-182337" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-182337" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+                    <div id="mediadiv-77124" class="mr-2 mb-2" style="width:200px;height:200px;position:relative;display:inline-block;">
+
+                        <div id="aannouncement_Announcementfiles-182337">
+                                <a target="_blank" href="/appData/Aannouncement/11042026000244773-0.pdf" style="cursor:pointer;">
+                                    <img src="/Img/PDF Icon.png" style="width:100%;height:200px;" />
+                                </a>
+                        
+                    </div>
+                    </div>
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_181977" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                4/8/2026 7:10:00 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p><span style="font-size: 13.8px;">Dear Parents,</span></p><p><span style="font-size: 13.8px;">Please note that the uniform vendor will be available on Friday, 10th April with additional stock. </span></p><p><span style="font-size: 13.8px;">All pending uniform deliveries will be completed class-wise.</span></p><p><span style="font-size: 13.8px;">He will also be bringing zippers and will distribute them accordingly.</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">If you are planning to visit tomorrow for uniforms, kindly note that the vendor will not be available. We request you not to come tomorrow.</span></p><p><span style="font-size: 13.8px;">Thank you for your cooperation.</span></p><p><span style="font-size: 13.8px;"><br></span></p><p><span style="font-size: 13.8px;">Regards</span></p><p><span style="font-size: 13.8px;">Team KIS&nbsp;</span></p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_181814" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                4/7/2026 11:21:32 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,</p><p>Please note that on 8th, 9th, and 10th April, the school timing for Pre Primary students will be till 11:00 AM.</p><p>Kindly make the necessary arrangements for pick-up.</p><p>Also, from 13th April onwards, the school timing will be till 1:00 PM.</p><p>Thank you.</p><p>Warm regards&nbsp;</p><p>Kashish Nariani&nbsp;</p><p>Kejal Bhanushali&nbsp;</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_181813" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                4/7/2026 10:49:07 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,&nbsp;</p><p><br></p><p>Kindly note that due to an emergency the uniform vendor will not be available tomorrow. He has given the pending uniforms today and some packets are at reception which will be given tomorrow to the students directly.&nbsp;</p><p>He will be available on Thursday 9th April 2026 from 9.00 am to 3.30 pm.&nbsp;</p><p><br></p><p>Thank you for your cooperation.</p><p><br></p><p>Regards,&nbsp;</p><p>Team KIS&nbsp;</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_181768" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                4/7/2026 3:36:15 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,</p><p><br></p><p>Kindly note that students availing the school bus facility must follow the timings given for the dry run.</p><p><br></p><p>Date: 8th April 2026</p><p>Pre-Primary: 10:30 AM&nbsp;</p><p><br></p><p>Parents are requested to accompany their child for the dry run.</p><p><br></p><p>We request your cooperation in ensuring by being present on time.</p><p><br></p><p>Regards,&nbsp;</p><p><br></p><p>Team KIS</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_181343" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                4/5/2026 12:18:08 PM
+                                <b> (<i class="iconsminds-tag-3"></i> Circular )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,</p><p><br></p><p>Kindly note , please find below attached the April 2026-27 month menu .</p><p><br></p><p>Regards ,</p><p>Team KIS&nbsp;</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-181343" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-181343" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+    <div id="mediadiv-76845" class="mr-2 mb-2" style="width:200px;height:200px;position:relative;display:inline-block;">
+            <a class="pdffile-attachements" style="max-height:200px;width:100%;cursor:pointer;" target="_blank" href="/appData/Aannouncement/05042026121808927-0.png">
+                    <img src="/appData/Aannouncement/05042026121808927-0.png" style="width:100%;height:200px;" />
+            </a>
+    </div>
+                    <div id="mediadiv-76842" class="mr-2 mb-2" style="width:200px;height:200px;position:relative;display:inline-block;">
+
+                        <div id="aannouncement_Announcementfiles-181343">
+                                <a target="_blank" href="/appData/Aannouncement/04042026224318293-0.pdf" style="cursor:pointer;">
+                                    <img src="/Img/PDF Icon.png" style="width:100%;height:200px;" />
+                                </a>
+                        
+                    </div>
+                    </div>
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+        <div id="schoolAnnouncement_181347" class="w-100">
+            <div>
+                <div class="row m-0 w-100 position-relative" style="">
+
+                    <div class="pl-2 pt-1 w-100 position-relative">
+
+                        <div class="annfontclassformob">
+
+                            <p class="mb-0">
+                                4/5/2026 10:05:25 AM
+                                <b> (<i class="iconsminds-tag-3"></i> Message )</b>
+                            </p>
+                            <div class="commonannouncement_rowhtml_wrapper mt-2 mb-2 " style="line-break: auto;">
+                                <p>Dear Parents,&nbsp;</p><p><br></p><p>Kindly note, those who havent received the uniforms, it will be given to the students in the school directly. Till then the students can wear coloured dress—preferably a blue T-shirt with black pants, or any similar combination.&nbsp;</p><p><br></p><p>Regards,&nbsp;</p><p><br></p><p>Team KIS</p>
+                            </div>
+                        </div>
+
+                        <div class="mb-1">
+                            
+
+<div id="aannouncement_AnnouncementMedias-" class="position-relative">
+    <div id="announcemenmedia_scrolldiv-" style="flex-wrap: nowrap; overflow-y: hidden; white-space: nowrap;">
+
+    </div>
+</div>
+<script>
+
+    function marksheet_scrollleftfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft += 170;
+    };
+    function marksheet_scrollrightfun(divid) {
+        document.getElementById('announcemenmedia_scrolldiv-' + divid).scrollLeft -= 170;
+    };
+
+</script>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="mt-2 mb-2 announcement-border"></div>
+
+
+
+            </div>
+        </div>
+            <div id="dvSchoolAnnouncementLoadMore" class="showmorediv">
+                <a class="d-block" id="btnSchoolAnnouncementLoadMore" onclick="$('#dvSchoolAnnouncementLoadMore').remove();" href="/Aannouncement/GetAnnouncementByStudentHash?QHash=CfDJ8I0yd3aLhstOhR6RCtfJnsOTNoVRf8csaS9q8Li7HSQzEJz94I96O3UOA1yopv5ACrTOpsDLpIffScll-JqrODPKOFQhMxaFLJp1DY2YK7rhNhjjPTtmB7FfVy7z36ODsEIeDV0iaxsTylzvTiizKS40kvKG7dZOoa7oYpLI39jALDTXUEfrcGSkqk7qeO397qe5CmzK1XTlJ6NrTfJqKHsxeyZ3UCpqkRFSnM-ShrsRyKqu0KSt1fMtuwcLxge_WXbUrdi9d8uuMWlc5jjrk5IQTfIRvqqertt2WPG2SdP-Q9gBzZvYwXYz_OAel-2xo1PPcD0QZK2J398SDTyS4Ff2f5CH-gGXRQqwhK1E1rZi&amp;PageSize=10&amp;PageNumber=8&amp;DMLFlag=Search&amp;ActionRoute=tnemecnuonnAloohcStnedutS" data-ajax="true" data-ajax-complete="onAjaxcomplete" data-ajax-failure="onAjaxFailure" data-ajax-loading="#loader" data-ajax-update="#schoolannouncementsList" data-ajax-mode="after"><i class="iconsminds-down-1" style="font-size:35px;"></i></a>
+                <script>
+                    $(window).scroll(function () {
+                        if ($(window).scrollTop() + $(window).height() == $(document).height()) {
+                            $("#btnSchoolAnnouncementLoadMore").click();
+                        }
+                    });
+                </script>
+            </div>
+
+
+<script>
+    function onAjaxSuccessSelectSurvey(result) {
+        if (result.status == true) {
+            $('#' + result.dvid).remove();
+        } else {
+            alert(result.message);
+        }
+    }
+</script>
